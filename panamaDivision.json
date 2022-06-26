@@ -1090,7 +1090,7 @@
         {
           "id": "04-1",
           "provincia": "CHIRIQUÍ",
-          "distrito": "Alanje",
+          "name": "Alanje",
           "superficie": "443.35",
           "pop10": "16508.00",
           "den10": "37.23",
@@ -1098,7 +1098,7 @@
           "corregimientos": [{
               "id": "04-1-01",
               "provincia": "CHIRIQUÍ",
-              "name": "Alanje",
+              "distrito": "Alanje",
               "name": "Alanje",
               "superficie": "21.43",
               "pop10": "2406.00",
@@ -2024,7 +2024,7 @@
         {
           "id": "05-1",
           "provincia": "DARIÉN",
-          "distrito": "Chepigana",
+          "name": "Chepigana",
           "superficie": "6991.09",
           "pop10": "30110.00",
           "den10": "04.31",
@@ -2162,7 +2162,7 @@
         {
           "id": "05-2",
           "provincia": "DARIÉN",
-          "distrito": "Pinogana",
+          "name": "Pinogana",
           "superficie": "4901.39",
           "pop10": "18268.00",
           "den10": "03.73",
