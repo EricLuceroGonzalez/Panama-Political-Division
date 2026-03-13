@@ -1,4 +1,4 @@
-🇵🇦 Panama Political Division (JSON)
+# 🇵🇦 Panama Political Division (JSON)
 A comprehensive and fully structured JSON dataset containing the hierarchical political and administrative division of the Republic of Panama.
 
 This repository is ideal for developers, data analysts, and researchers who need to implement geographic structures in their applications, such as cascading dropdown menus (Province ➔ District ➔ Corregimiento), geographic databases, or data visualization projects.
