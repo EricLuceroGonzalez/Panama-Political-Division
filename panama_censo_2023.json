@@ -1,0 +1,5821 @@
+{
+  "provincia": [
+    {
+      "id": "01",
+      "name": "﻿BOCAS DEL TORO",
+      "superficie23": "4654.0",
+      "pop23": "159228",
+      "den23": "34.2",
+      "distritos": [
+        {
+          "id": "01-01",
+          "name": "BOCAS DEL TORO",
+          "superficie23": "285.0",
+          "pop23": "17274",
+          "den23": "60.6",
+          "corregimientos": [
+            {
+              "id": "01-01-01",
+              "name": "BOCAS DEL TORO",
+              "superficie23": "34.1",
+              "pop23": "6708",
+              "den23": "196.8"
+            },
+            {
+              "id": "01-01-02",
+              "name": "BASTIMENTOS",
+              "superficie23": "60.9",
+              "pop23": "2589",
+              "den23": "42.5"
+            },
+            {
+              "id": "01-01-03",
+              "name": "PUNTA LAUREL",
+              "superficie23": "71.3",
+              "pop23": "1979",
+              "den23": "27.8"
+            },
+            {
+              "id": "01-01-04",
+              "name": "TIERRA OSCURA",
+              "superficie23": "49.5",
+              "pop23": "1771",
+              "den23": "35.8"
+            },
+            {
+              "id": "01-01-05",
+              "name": "BOCAS DEL DRAGO",
+              "superficie23": "31.2",
+              "pop23": "2518",
+              "den23": "80.7"
+            },
+            {
+              "id": "01-01-06",
+              "name": "SAN CRISTOBAL",
+              "superficie23": "38.0",
+              "pop23": "1709",
+              "den23": "45.0"
+            }
+          ]
+        },
+        {
+          "id": "01-02",
+          "name": "CHANGUINOLA",
+          "superficie23": "2222.5",
+          "pop23": "101091",
+          "den23": "45.5",
+          "corregimientos": [
+            {
+              "id": "01-02-01",
+              "name": "CHANGUINOLA",
+              "superficie23": "4.5",
+              "pop23": "6136",
+              "den23": "1367.8"
+            },
+            {
+              "id": "01-02-02",
+              "name": "GUABITO",
+              "superficie23": "90.9",
+              "pop23": "6573",
+              "den23": "72.3"
+            },
+            {
+              "id": "01-02-03",
+              "name": "EL TERIBE",
+              "superficie23": "854.0",
+              "pop23": "3251",
+              "den23": "3.8"
+            },
+            {
+              "id": "01-02-04",
+              "name": "EL EMPALME",
+              "superficie23": "9.0",
+              "pop23": "11462",
+              "den23": "1273.1"
+            },
+            {
+              "id": "01-02-05",
+              "name": "LAS TABLAS",
+              "superficie23": "51.7",
+              "pop23": "5002",
+              "den23": "96.8"
+            },
+            {
+              "id": "01-02-06",
+              "name": "COCHIGRÓ",
+              "superficie23": "205.1",
+              "pop23": "2085",
+              "den23": "10.2"
+            },
+            {
+              "id": "01-02-07",
+              "name": "LA GLORIA",
+              "superficie23": "159.0",
+              "pop23": "3232",
+              "den23": "20.3"
+            },
+            {
+              "id": "01-02-08",
+              "name": "LAS DELICIAS",
+              "superficie23": "554.5",
+              "pop23": "1773",
+              "den23": "3.2"
+            },
+            {
+              "id": "01-02-09",
+              "name": "BARRIADA 4 DE ABRIL",
+              "superficie23": "13.0",
+              "pop23": "10557",
+              "den23": "813.6"
+            },
+            {
+              "id": "01-02-10",
+              "name": "EL SILENCIO",
+              "superficie23": "51.9",
+              "pop23": "3839",
+              "den23": "74.0"
+            },
+            {
+              "id": "01-02-11",
+              "name": "FINCA 6",
+              "superficie23": "28.8",
+              "pop23": "8982",
+              "den23": "311.4"
+            },
+            {
+              "id": "01-02-12",
+              "name": "FINCA 30",
+              "superficie23": "17.0",
+              "pop23": "8801",
+              "den23": "517.6"
+            },
+            {
+              "id": "01-02-13",
+              "name": "FINCA 60",
+              "superficie23": "30.2",
+              "pop23": "5329",
+              "den23": "176.4"
+            },
+            {
+              "id": "01-02-14",
+              "name": "BARRANCO ADENTRO",
+              "superficie23": "20.0",
+              "pop23": "4871",
+              "den23": "243.2"
+            },
+            {
+              "id": "01-02-15",
+              "name": "FINCA 4",
+              "superficie23": "18.6",
+              "pop23": "5781",
+              "den23": "310.5"
+            },
+            {
+              "id": "01-02-16",
+              "name": "FINCA 12",
+              "superficie23": "2.7",
+              "pop23": "3264",
+              "den23": "1196.0"
+            },
+            {
+              "id": "01-02-17",
+              "name": "FINCA 51",
+              "superficie23": "78.3",
+              "pop23": "5732",
+              "den23": "73.2"
+            },
+            {
+              "id": "01-02-18",
+              "name": "FINCA 66",
+              "superficie23": "2.6",
+              "pop23": "2184",
+              "den23": "854.1"
+            },
+            {
+              "id": "01-02-19",
+              "name": "LA MESA",
+              "superficie23": "30.8",
+              "pop23": "2237",
+              "den23": "72.7"
+            }
+          ]
+        },
+        {
+          "id": "01-03",
+          "name": "CHIRIQUÍ GRANDE",
+          "superficie23": "210.2",
+          "pop23": "12495",
+          "den23": "59.4",
+          "corregimientos": [
+            {
+              "id": "01-03-01",
+              "name": "CHIRIQUÍ GRANDE",
+              "superficie23": "60.3",
+              "pop23": "3891",
+              "den23": "64.5"
+            },
+            {
+              "id": "01-03-02",
+              "name": "MIRAMAR",
+              "superficie23": "26.7",
+              "pop23": "729",
+              "den23": "27.3"
+            },
+            {
+              "id": "01-03-03",
+              "name": "PUNTA PEÑA",
+              "superficie23": "18.2",
+              "pop23": "3060",
+              "den23": "167.7"
+            },
+            {
+              "id": "01-03-04",
+              "name": "PUNTA ROBALO",
+              "superficie23": "50.6",
+              "pop23": "1597",
+              "den23": "31.5"
+            },
+            {
+              "id": "01-03-05",
+              "name": "RAMBALA",
+              "superficie23": "32.7",
+              "pop23": "1365",
+              "den23": "41.7"
+            },
+            {
+              "id": "01-03-06",
+              "name": "BAJO CEDRO",
+              "superficie23": "21.5",
+              "pop23": "1853",
+              "den23": "86.0"
+            }
+          ]
+        },
+        {
+          "id": "01-04",
+          "name": "ALMIRANTE",
+          "superficie23": "1936.2",
+          "pop23": "28368",
+          "den23": "14.7",
+          "corregimientos": [
+            {
+              "id": "01-04-01",
+              "name": "ALMIRANTE",
+              "superficie23": "16.6",
+              "pop23": "4886",
+              "den23": "293.5"
+            },
+            {
+              "id": "01-04-02",
+              "name": "BARRIO FRANCÉS",
+              "superficie23": "18.1",
+              "pop23": "2192",
+              "den23": "121.1"
+            },
+            {
+              "id": "01-04-03",
+              "name": "BARRIADA GUAYMÍ",
+              "superficie23": "26.8",
+              "pop23": "4754",
+              "den23": "177.6"
+            },
+            {
+              "id": "01-04-04",
+              "name": "NANCE DE RISCO",
+              "superficie23": "125.4",
+              "pop23": "1650",
+              "den23": "13.2"
+            },
+            {
+              "id": "01-04-05",
+              "name": "VALLE DE AGUA ARRIBA",
+              "superficie23": "70.9",
+              "pop23": "3939",
+              "den23": "55.5"
+            },
+            {
+              "id": "01-04-06",
+              "name": "VALLE DEL RISCO",
+              "superficie23": "306.3",
+              "pop23": "4386",
+              "den23": "14.3"
+            },
+            {
+              "id": "01-04-07",
+              "name": "BAJO CULUBRE",
+              "superficie23": "844.8",
+              "pop23": "963",
+              "den23": "1.1"
+            },
+            {
+              "id": "01-04-08",
+              "name": "CAUCHERO",
+              "superficie23": "139.8",
+              "pop23": "2934",
+              "den23": "21.0"
+            },
+            {
+              "id": "01-04-09",
+              "name": "CEIBA",
+              "superficie23": "350.6",
+              "pop23": "1361",
+              "den23": "3.9"
+            },
+            {
+              "id": "01-04-10",
+              "name": "MIRAFLORES",
+              "superficie23": "36.9",
+              "pop23": "1303",
+              "den23": "35.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "name": "COCLÉ",
+      "superficie23": "4943.0",
+      "pop23": "268264",
+      "den23": "54.3",
+      "distritos": [
+        {
+          "id": "02-01",
+          "name": "AGUADULCE",
+          "superficie23": "470.0",
+          "pop23": "49005",
+          "den23": "104.3",
+          "corregimientos": [
+            {
+              "id": "02-01-01",
+              "name": "AGUADULCE",
+              "superficie23": "50.4",
+              "pop23": "9576",
+              "den23": "190.1"
+            },
+            {
+              "id": "02-01-02",
+              "name": "EL CRISTO",
+              "superficie23": "59.0",
+              "pop23": "3085",
+              "den23": "52.3"
+            },
+            {
+              "id": "02-01-03",
+              "name": "EL ROBLE",
+              "superficie23": "128.1",
+              "pop23": "4830",
+              "den23": "37.7"
+            },
+            {
+              "id": "02-01-04",
+              "name": "POCRÍ",
+              "superficie23": "6.0",
+              "pop23": "8194",
+              "den23": "1373.3"
+            },
+            {
+              "id": "02-01-05",
+              "name": "BARRIOS UNIDOS",
+              "superficie23": "64.9",
+              "pop23": "9991",
+              "den23": "154.1"
+            },
+            {
+              "id": "02-01-06",
+              "name": "PUEBLOS UNIDOS",
+              "superficie23": "91.4",
+              "pop23": "4055",
+              "den23": "44.4"
+            },
+            {
+              "id": "02-01-07",
+              "name": "VIRGEN DEL CARMEN",
+              "superficie23": "16.4",
+              "pop23": "7890",
+              "den23": "480.0"
+            },
+            {
+              "id": "02-01-08",
+              "name": "EL HATO DE SAN JUAN DE DIOS",
+              "superficie23": "53.8",
+              "pop23": "1384",
+              "den23": "25.7"
+            }
+          ]
+        },
+        {
+          "id": "02-02",
+          "name": "ANTÓN",
+          "superficie23": "743.9",
+          "pop23": "59194",
+          "den23": "79.6",
+          "corregimientos": [
+            {
+              "id": "02-02-01",
+              "name": "ANTÓN",
+              "superficie23": "109.8",
+              "pop23": "10711",
+              "den23": "97.5"
+            },
+            {
+              "id": "02-02-02",
+              "name": "CABUYA",
+              "superficie23": "62.3",
+              "pop23": "2092",
+              "den23": "33.6"
+            },
+            {
+              "id": "02-02-03",
+              "name": "EL CHIRÚ",
+              "superficie23": "109.9",
+              "pop23": "3889",
+              "den23": "35.4"
+            },
+            {
+              "id": "02-02-04",
+              "name": "EL RETIRO",
+              "superficie23": "69.5",
+              "pop23": "2937",
+              "den23": "42.2"
+            },
+            {
+              "id": "02-02-05",
+              "name": "EL VALLE",
+              "superficie23": "35.0",
+              "pop23": "7595",
+              "den23": "217.0"
+            },
+            {
+              "id": "02-02-06",
+              "name": "JUAN DÍAZ",
+              "superficie23": "81.6",
+              "pop23": "3516",
+              "den23": "43.1"
+            },
+            {
+              "id": "02-02-07",
+              "name": "RÍO HATO",
+              "superficie23": "134.5",
+              "pop23": "15950",
+              "den23": "118.6"
+            },
+            {
+              "id": "02-02-08",
+              "name": "SAN JUAN DE DIOS",
+              "superficie23": "56.1",
+              "pop23": "5538",
+              "den23": "98.7"
+            },
+            {
+              "id": "02-02-09",
+              "name": "SANTA RITA",
+              "superficie23": "43.4",
+              "pop23": "2830",
+              "den23": "65.2"
+            },
+            {
+              "id": "02-02-10",
+              "name": "CABALLERO",
+              "superficie23": "41.7",
+              "pop23": "4136",
+              "den23": "99.1"
+            }
+          ]
+        },
+        {
+          "id": "02-03",
+          "name": "LA PINTADA",
+          "superficie23": "1031.3",
+          "pop23": "29698",
+          "den23": "28.8",
+          "corregimientos": [
+            {
+              "id": "02-03-01",
+              "name": "LA PINTADA",
+              "superficie23": "85.5",
+              "pop23": "4497",
+              "den23": "52.6"
+            },
+            {
+              "id": "02-03-02",
+              "name": "EL HARINO",
+              "superficie23": "253.3",
+              "pop23": "5752",
+              "den23": "22.7"
+            },
+            {
+              "id": "02-03-03",
+              "name": "EL POTRERO",
+              "superficie23": "74.9",
+              "pop23": "3450",
+              "den23": "46.1"
+            },
+            {
+              "id": "02-03-04",
+              "name": "LLANO GRANDE",
+              "superficie23": "88.0",
+              "pop23": "4114",
+              "den23": "46.7"
+            },
+            {
+              "id": "02-03-05",
+              "name": "PIEDRAS GORDAS",
+              "superficie23": "135.0",
+              "pop23": "4713",
+              "den23": "34.9"
+            },
+            {
+              "id": "02-03-06",
+              "name": "LAS LOMAS",
+              "superficie23": "86.3",
+              "pop23": "2350",
+              "den23": "27.2"
+            },
+            {
+              "id": "02-03-07",
+              "name": "LLANO NORTE",
+              "superficie23": "308.2",
+              "pop23": "4822",
+              "den23": "15.6"
+            }
+          ]
+        },
+        {
+          "id": "02-04",
+          "name": "NATÁ",
+          "superficie23": "613.1",
+          "pop23": "19741",
+          "den23": "32.2",
+          "corregimientos": [
+            {
+              "id": "02-04-01",
+              "name": "NATÁ",
+              "superficie23": "175.0",
+              "pop23": "6317",
+              "den23": "36.1"
+            },
+            {
+              "id": "02-04-02",
+              "name": "CAPELLANÍA",
+              "superficie23": "39.4",
+              "pop23": "2967",
+              "den23": "75.3"
+            },
+            {
+              "id": "02-04-03",
+              "name": "EL CAÑO",
+              "superficie23": "87.9",
+              "pop23": "3440",
+              "den23": "39.2"
+            },
+            {
+              "id": "02-04-04",
+              "name": "GUZMÁN",
+              "superficie23": "73.1",
+              "pop23": "978",
+              "den23": "13.4"
+            },
+            {
+              "id": "02-04-05",
+              "name": "LAS HUACAS",
+              "superficie23": "88.9",
+              "pop23": "1581",
+              "den23": "17.8"
+            },
+            {
+              "id": "02-04-06",
+              "name": "TOZA",
+              "superficie23": "86.0",
+              "pop23": "2437",
+              "den23": "28.4"
+            },
+            {
+              "id": "02-04-07",
+              "name": "VILLARREAL",
+              "superficie23": "62.7",
+              "pop23": "2021",
+              "den23": "32.2"
+            }
+          ]
+        },
+        {
+          "id": "02-05",
+          "name": "OLÁ",
+          "superficie23": "377.2",
+          "pop23": "6300",
+          "den23": "16.7",
+          "corregimientos": [
+            {
+              "id": "02-05-01",
+              "name": "OLÁ",
+              "superficie23": "83.2",
+              "pop23": "1472",
+              "den23": "17.7"
+            },
+            {
+              "id": "02-05-02",
+              "name": "EL COPÉ",
+              "superficie23": "74.5",
+              "pop23": "1503",
+              "den23": "20.2"
+            },
+            {
+              "id": "02-05-03",
+              "name": "EL PALMAR",
+              "superficie23": "104.5",
+              "pop23": "1296",
+              "den23": "12.4"
+            },
+            {
+              "id": "02-05-04",
+              "name": "EL PICACHO",
+              "superficie23": "30.5",
+              "pop23": "346",
+              "den23": "11.3"
+            },
+            {
+              "id": "02-05-05",
+              "name": "LA PAVA",
+              "superficie23": "84.5",
+              "pop23": "1683",
+              "den23": "19.9"
+            }
+          ]
+        },
+        {
+          "id": "02-06",
+          "name": "PENONOMÉ",
+          "superficie23": "1707.5",
+          "pop23": "104326",
+          "den23": "61.1",
+          "corregimientos": [
+            {
+              "id": "02-06-01",
+              "name": "PENONOMÉ",
+              "superficie23": "53.4",
+              "pop23": "25836",
+              "den23": "484.2"
+            },
+            {
+              "id": "02-06-02",
+              "name": "CAÑAVERAL",
+              "superficie23": "63.4",
+              "pop23": "9324",
+              "den23": "147.0"
+            },
+            {
+              "id": "02-06-03",
+              "name": "COCLÉ",
+              "superficie23": "115.4",
+              "pop23": "5811",
+              "den23": "50.4"
+            },
+            {
+              "id": "02-06-04",
+              "name": "CHIGUIRÍ ARRIBA",
+              "superficie23": "104.0",
+              "pop23": "7185",
+              "den23": "69.1"
+            },
+            {
+              "id": "02-06-05",
+              "name": "EL COCO",
+              "superficie23": "148.3",
+              "pop23": "11064",
+              "den23": "74.6"
+            },
+            {
+              "id": "02-06-06",
+              "name": "PAJONAL",
+              "superficie23": "63.7",
+              "pop23": "7678",
+              "den23": "120.4"
+            },
+            {
+              "id": "02-06-07",
+              "name": "RÍO GRANDE",
+              "superficie23": "94.2",
+              "pop23": "3505",
+              "den23": "37.2"
+            },
+            {
+              "id": "02-06-08",
+              "name": "RÍO INDIO",
+              "superficie23": "214.0",
+              "pop23": "4026",
+              "den23": "18.8"
+            },
+            {
+              "id": "02-06-09",
+              "name": "TOABRÉ",
+              "superficie23": "193.6",
+              "pop23": "7440",
+              "den23": "38.4"
+            },
+            {
+              "id": "02-06-10",
+              "name": "TULÚ",
+              "superficie23": "121.9",
+              "pop23": "2241",
+              "den23": "18.4"
+            },
+            {
+              "id": "02-06-11",
+              "name": "BOCA DE TUCUÉ",
+              "superficie23": "103.4",
+              "pop23": "2090",
+              "den23": "20.2"
+            },
+            {
+              "id": "02-06-12",
+              "name": "CANDELARIO OVALLE",
+              "superficie23": "99.0",
+              "pop23": "3615",
+              "den23": "36.5"
+            },
+            {
+              "id": "02-06-13",
+              "name": "GENERAL VICTORIANO LORENZO",
+              "superficie23": "79.1",
+              "pop23": "8496",
+              "den23": "107.3"
+            },
+            {
+              "id": "02-06-14",
+              "name": "LAS MINAS",
+              "superficie23": "71.0",
+              "pop23": "2662",
+              "den23": "37.5"
+            },
+            {
+              "id": "02-06-15",
+              "name": "RIECITO",
+              "superficie23": "83.3",
+              "pop23": "1315",
+              "den23": "15.8"
+            },
+            {
+              "id": "02-06-16",
+              "name": "SAN MIGUEL",
+              "superficie23": "99.7",
+              "pop23": "2038",
+              "den23": "20.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "name": "COLÓN",
+      "superficie23": "4605.0",
+      "pop23": "281956",
+      "den23": "61.2",
+      "distritos": [
+        {
+          "id": "03-01",
+          "name": "COLÓN",
+          "superficie23": "1194.0",
+          "pop23": "240722",
+          "den23": "201.6",
+          "corregimientos": []
+        },
+        {
+          "id": "03-02",
+          "name": "CIUDAD DE COLÓN",
+          "superficie23": "3.0",
+          "pop23": "18783",
+          "den23": "6296.7",
+          "corregimientos": [
+            {
+              "id": "03-02-01",
+              "name": "BARRIO NORTE",
+              "superficie23": "1.3",
+              "pop23": "12320",
+              "den23": "9325.9"
+            },
+            {
+              "id": "03-02-02",
+              "name": "BARRIO SUR",
+              "superficie23": "1.7",
+              "pop23": "6463",
+              "den23": "3888.9"
+            }
+          ]
+        },
+        {
+          "id": "03-03",
+          "name": "RESTO DEL DISTRITO",
+          "superficie23": "1191.0",
+          "pop23": "221939",
+          "den23": "186.4",
+          "corregimientos": [
+            {
+              "id": "03-03-01",
+              "name": "BUENA VISTA",
+              "superficie23": "113.0",
+              "pop23": "19221",
+              "den23": "170.2"
+            },
+            {
+              "id": "03-03-02",
+              "name": "CATIVÁ",
+              "superficie23": "22.1",
+              "pop23": "37000",
+              "den23": "1672.2"
+            },
+            {
+              "id": "03-03-03",
+              "name": "CIRICITO",
+              "superficie23": "66.4",
+              "pop23": "3174",
+              "den23": "47.8"
+            },
+            {
+              "id": "03-03-04",
+              "name": "CRISTÓBAL",
+              "superficie23": "412.9",
+              "pop23": "10466",
+              "den23": "25.3"
+            },
+            {
+              "id": "03-03-05",
+              "name": "ESCOBAL",
+              "superficie23": "78.1",
+              "pop23": "2293",
+              "den23": "29.3"
+            },
+            {
+              "id": "03-03-06",
+              "name": "LIMÓN",
+              "superficie23": "76.4",
+              "pop23": "5546",
+              "den23": "72.6"
+            },
+            {
+              "id": "03-03-07",
+              "name": "NUEVA PROVIDENCIA",
+              "superficie23": "17.6",
+              "pop23": "8734",
+              "den23": "495.4"
+            },
+            {
+              "id": "03-03-08",
+              "name": "PUERTO PILÓN",
+              "superficie23": "99.3",
+              "pop23": "18285",
+              "den23": "184.2"
+            },
+            {
+              "id": "03-03-09",
+              "name": "SABANITAS",
+              "superficie23": "11.7",
+              "pop23": "23630",
+              "den23": "2013.4"
+            },
+            {
+              "id": "03-03-10",
+              "name": "SALAMANCA",
+              "superficie23": "195.3",
+              "pop23": "5043",
+              "den23": "25.8"
+            },
+            {
+              "id": "03-03-11",
+              "name": "SAN JUAN",
+              "superficie23": "41.7",
+              "pop23": "22499",
+              "den23": "539.8"
+            },
+            {
+              "id": "03-03-12",
+              "name": "SANTA ROSA",
+              "superficie23": "27.5",
+              "pop23": "1232",
+              "den23": "44.7"
+            },
+            {
+              "id": "03-03-13",
+              "name": "CRISTÓBAL ESTE",
+              "superficie23": "28.9",
+              "pop23": "64816",
+              "den23": "2242.4"
+            }
+          ]
+        },
+        {
+          "id": "03-04",
+          "name": "CHAGRES",
+          "superficie23": "447.2",
+          "pop23": "10968",
+          "den23": "24.5",
+          "corregimientos": [
+            {
+              "id": "03-04-01",
+              "name": "NUEVO CHAGRES",
+              "superficie23": "5.7",
+              "pop23": "567",
+              "den23": "99.2"
+            },
+            {
+              "id": "03-04-02",
+              "name": "ACHIOTE",
+              "superficie23": "62.0",
+              "pop23": "938",
+              "den23": "15.1"
+            },
+            {
+              "id": "03-04-03",
+              "name": "EL GUABO",
+              "superficie23": "52.7",
+              "pop23": "1553",
+              "den23": "29.5"
+            },
+            {
+              "id": "03-04-04",
+              "name": "LA ENCANTADA",
+              "superficie23": "135.5",
+              "pop23": "2333",
+              "den23": "17.2"
+            },
+            {
+              "id": "03-04-05",
+              "name": "PALMAS BELLAS",
+              "superficie23": "55.4",
+              "pop23": "2151",
+              "den23": "38.8"
+            },
+            {
+              "id": "03-04-06",
+              "name": "PIÑA",
+              "superficie23": "29.9",
+              "pop23": "888",
+              "den23": "29.7"
+            },
+            {
+              "id": "03-04-07",
+              "name": "SALUD",
+              "superficie23": "106.0",
+              "pop23": "2538",
+              "den23": "23.9"
+            }
+          ]
+        },
+        {
+          "id": "03-05",
+          "name": "DONOSO",
+          "superficie23": "1627.8",
+          "pop23": "12274",
+          "den23": "7.5",
+          "corregimientos": [
+            {
+              "id": "03-05-01",
+              "name": "MIGUEL DE LA BORDA",
+              "superficie23": "310.5",
+              "pop23": "2408",
+              "den23": "7.8"
+            },
+            {
+              "id": "03-05-02",
+              "name": "COCLÉ DEL NORTE",
+              "superficie23": "931.7",
+              "pop23": "4301",
+              "den23": "4.6"
+            },
+            {
+              "id": "03-05-03",
+              "name": "EL GUÁSIMO",
+              "superficie23": "295.6",
+              "pop23": "3494",
+              "den23": "11.8"
+            },
+            {
+              "id": "03-05-04",
+              "name": "GOBEA",
+              "superficie23": "53.6",
+              "pop23": "927",
+              "den23": "17.3"
+            },
+            {
+              "id": "03-05-05",
+              "name": "RÍO INDIO",
+              "superficie23": "36.4",
+              "pop23": "1144",
+              "den23": "31.4"
+            }
+          ]
+        },
+        {
+          "id": "03-06",
+          "name": "PORTOBELO",
+          "superficie23": "398.7",
+          "pop23": "10320",
+          "den23": "25.9",
+          "corregimientos": [
+            {
+              "id": "03-06-01",
+              "name": "PORTOBELO",
+              "superficie23": "244.6",
+              "pop23": "4910",
+              "den23": "20.1"
+            },
+            {
+              "id": "03-06-02",
+              "name": "CACIQUE",
+              "superficie23": "11.7",
+              "pop23": "308",
+              "den23": "26.4"
+            },
+            {
+              "id": "03-06-03",
+              "name": "PUERTO LINDO O GARROTE",
+              "superficie23": "24.7",
+              "pop23": "1011",
+              "den23": "41.0"
+            },
+            {
+              "id": "03-06-04",
+              "name": "ISLA GRANDE",
+              "superficie23": "26.9",
+              "pop23": "988",
+              "den23": "36.7"
+            },
+            {
+              "id": "03-06-05",
+              "name": "MARÍA CHIQUITA",
+              "superficie23": "90.8",
+              "pop23": "3103",
+              "den23": "34.2"
+            }
+          ]
+        },
+        {
+          "id": "03-07",
+          "name": "SANTA ISABEL",
+          "superficie23": "739.9",
+          "pop23": "4111",
+          "den23": "5.6",
+          "corregimientos": [
+            {
+              "id": "03-07-01",
+              "name": "PALENQUE",
+              "superficie23": "68.6",
+              "pop23": "508",
+              "den23": "7.4"
+            },
+            {
+              "id": "03-07-02",
+              "name": "CUANGO",
+              "superficie23": "46.1",
+              "pop23": "624",
+              "den23": "13.5"
+            },
+            {
+              "id": "03-07-03",
+              "name": "MIRAMAR",
+              "superficie23": "15.9",
+              "pop23": "389",
+              "den23": "24.4"
+            },
+            {
+              "id": "03-07-04",
+              "name": "NOMBRE DE DIOS",
+              "superficie23": "150.3",
+              "pop23": "1127",
+              "den23": "7.5"
+            },
+            {
+              "id": "03-07-05",
+              "name": "PALMIRA",
+              "superficie23": "176.9",
+              "pop23": "404",
+              "den23": "2.3"
+            },
+            {
+              "id": "03-07-06",
+              "name": "PLAYA CHIQUITA",
+              "superficie23": "113.0",
+              "pop23": "196",
+              "den23": "1.7"
+            },
+            {
+              "id": "03-07-07",
+              "name": "SANTA ISABEL",
+              "superficie23": "134.4",
+              "pop23": "276",
+              "den23": "2.1"
+            },
+            {
+              "id": "03-07-08",
+              "name": "VIENTO FRÍO",
+              "superficie23": "34.6",
+              "pop23": "587",
+              "den23": "16.9"
+            }
+          ]
+        },
+        {
+          "id": "03-08",
+          "name": "OMAR TORRIJOS HERRERA",
+          "superficie23": "197.5",
+          "pop23": "3561",
+          "den23": "18.0",
+          "corregimientos": [
+            {
+              "id": "03-08-01",
+              "name": "SAN JOSÉ DEL GENERAL",
+              "superficie23": "62.7",
+              "pop23": "1865",
+              "den23": "29.7"
+            },
+            {
+              "id": "03-08-02",
+              "name": "NUEVA ESPERANZA",
+              "superficie23": "79.8",
+              "pop23": "889",
+              "den23": "11.1"
+            },
+            {
+              "id": "03-08-03",
+              "name": "SAN JUAN DE TURBE",
+              "superficie23": "55.1",
+              "pop23": "807",
+              "den23": "14.7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "name": "CHIRIQUÍ",
+      "superficie23": "6584.0",
+      "pop23": "471071",
+      "den23": "71.5",
+      "distritos": [
+        {
+          "id": "04-01",
+          "name": "ALANJE",
+          "superficie23": "455.2",
+          "pop23": "18877",
+          "den23": "41.5",
+          "corregimientos": [
+            {
+              "id": "04-01-01",
+              "name": "ALANJE",
+              "superficie23": "20.8",
+              "pop23": "3186",
+              "den23": "153.2"
+            },
+            {
+              "id": "04-01-02",
+              "name": "DIVALÁ",
+              "superficie23": "61.4",
+              "pop23": "3496",
+              "den23": "56.9"
+            },
+            {
+              "id": "04-01-03",
+              "name": "EL TEJAR",
+              "superficie23": "35.4",
+              "pop23": "2113",
+              "den23": "59.7"
+            },
+            {
+              "id": "04-01-04",
+              "name": "GUARUMAL",
+              "superficie23": "91.4",
+              "pop23": "2743",
+              "den23": "30.0"
+            },
+            {
+              "id": "04-01-05",
+              "name": "PALO GRANDE",
+              "superficie23": "41.0",
+              "pop23": "642",
+              "den23": "15.7"
+            },
+            {
+              "id": "04-01-06",
+              "name": "QUERÉVALO",
+              "superficie23": "36.7",
+              "pop23": "2006",
+              "den23": "54.7"
+            },
+            {
+              "id": "04-01-07",
+              "name": "SANTO TOMÁS",
+              "superficie23": "56.4",
+              "pop23": "1511",
+              "den23": "26.8"
+            },
+            {
+              "id": "04-01-08",
+              "name": "CANTA GALLO",
+              "superficie23": "38.1",
+              "pop23": "683",
+              "den23": "17.9"
+            },
+            {
+              "id": "04-01-09",
+              "name": "NUEVO MÉXICO",
+              "superficie23": "74.0",
+              "pop23": "2497",
+              "den23": "33.8"
+            }
+          ]
+        },
+        {
+          "id": "04-02",
+          "name": "BARÚ",
+          "superficie23": "600.2",
+          "pop23": "56307",
+          "den23": "93.8",
+          "corregimientos": [
+            {
+              "id": "04-02-01",
+              "name": "PUERTO ARMUELLES",
+              "superficie23": "124.1",
+              "pop23": "12249",
+              "den23": "98.7"
+            },
+            {
+              "id": "04-02-02",
+              "name": "LIMONES",
+              "superficie23": "56.2",
+              "pop23": "1159",
+              "den23": "20.6"
+            },
+            {
+              "id": "04-02-03",
+              "name": "PROGRESO",
+              "superficie23": "55.7",
+              "pop23": "11690",
+              "den23": "209.8"
+            },
+            {
+              "id": "04-02-04",
+              "name": "BACO",
+              "superficie23": "75.5",
+              "pop23": "8008",
+              "den23": "106.1"
+            },
+            {
+              "id": "04-02-05",
+              "name": "RODOLFO AGUILAR DELGADO",
+              "superficie23": "109.7",
+              "pop23": "8851",
+              "den23": "80.7"
+            },
+            {
+              "id": "04-02-06",
+              "name": "EL PALMAR",
+              "superficie23": "98.2",
+              "pop23": "6147",
+              "den23": "62.6"
+            },
+            {
+              "id": "04-02-07",
+              "name": "MANACA",
+              "superficie23": "80.8",
+              "pop23": "8203",
+              "den23": "101.5"
+            }
+          ]
+        },
+        {
+          "id": "04-03",
+          "name": "BOQUERÓN",
+          "superficie23": "298.2",
+          "pop23": "21001",
+          "den23": "70.4",
+          "corregimientos": [
+            {
+              "id": "04-03-01",
+              "name": "BOQUERÓN",
+              "superficie23": "40.6",
+              "pop23": "5083",
+              "den23": "125.3"
+            },
+            {
+              "id": "04-03-02",
+              "name": "BÁGALA",
+              "superficie23": "43.3",
+              "pop23": "5113",
+              "den23": "118.0"
+            },
+            {
+              "id": "04-03-03",
+              "name": "CORDILLERA",
+              "superficie23": "48.8",
+              "pop23": "483",
+              "den23": "9.9"
+            },
+            {
+              "id": "04-03-04",
+              "name": "GUABAL",
+              "superficie23": "32.4",
+              "pop23": "1126",
+              "den23": "34.8"
+            },
+            {
+              "id": "04-03-05",
+              "name": "GUAYABAL",
+              "superficie23": "57.6",
+              "pop23": "2420",
+              "den23": "42.0"
+            },
+            {
+              "id": "04-03-06",
+              "name": "PARAÍSO",
+              "superficie23": "36.4",
+              "pop23": "683",
+              "den23": "18.8"
+            },
+            {
+              "id": "04-03-07",
+              "name": "PEDREGAL",
+              "superficie23": "20.8",
+              "pop23": "2627",
+              "den23": "126.1"
+            },
+            {
+              "id": "04-03-08",
+              "name": "TIJERAS",
+              "superficie23": "18.2",
+              "pop23": "3466",
+              "den23": "190.5"
+            }
+          ]
+        },
+        {
+          "id": "04-04",
+          "name": "BOQUETE",
+          "superficie23": "489.8",
+          "pop23": "23562",
+          "den23": "48.1",
+          "corregimientos": [
+            {
+              "id": "04-04-01",
+              "name": "BAJO BOQUETE",
+              "superficie23": "19.2",
+              "pop23": "4203",
+              "den23": "219.3"
+            },
+            {
+              "id": "04-04-02",
+              "name": "CALDERA",
+              "superficie23": "146.6",
+              "pop23": "1637",
+              "den23": "11.2"
+            },
+            {
+              "id": "04-04-03",
+              "name": "PALMIRA",
+              "superficie23": "56.4",
+              "pop23": "2440",
+              "den23": "43.3"
+            },
+            {
+              "id": "04-04-04",
+              "name": "ALTO BOQUETE",
+              "superficie23": "88.1",
+              "pop23": "8111",
+              "den23": "92.1"
+            },
+            {
+              "id": "04-04-05",
+              "name": "JARAMILLO",
+              "superficie23": "69.0",
+              "pop23": "2942",
+              "den23": "42.6"
+            },
+            {
+              "id": "04-04-06",
+              "name": "LOS NARANJOS",
+              "superficie23": "110.6",
+              "pop23": "4229",
+              "den23": "38.3"
+            }
+          ]
+        },
+        {
+          "id": "04-05",
+          "name": "BUGABA",
+          "superficie23": "517.3",
+          "pop23": "68870",
+          "den23": "133.1",
+          "corregimientos": [
+            {
+              "id": "04-05-01",
+              "name": "LA CONCEPCIÓN",
+              "superficie23": "43.0",
+              "pop23": "21280",
+              "den23": "494.8"
+            },
+            {
+              "id": "04-05-02",
+              "name": "ASERRÍO DE GARICHÉ",
+              "superficie23": "52.5",
+              "pop23": "6015",
+              "den23": "114.5"
+            },
+            {
+              "id": "04-05-03",
+              "name": "BUGABA",
+              "superficie23": "13.1",
+              "pop23": "4845",
+              "den23": "369.8"
+            },
+            {
+              "id": "04-05-04",
+              "name": "GÓMEZ",
+              "superficie23": "40.2",
+              "pop23": "2746",
+              "den23": "68.3"
+            },
+            {
+              "id": "04-05-05",
+              "name": "LA ESTRELLA",
+              "superficie23": "49.2",
+              "pop23": "6032",
+              "den23": "122.5"
+            },
+            {
+              "id": "04-05-06",
+              "name": "SAN ANDRÉS",
+              "superficie23": "65.5",
+              "pop23": "2527",
+              "den23": "38.6"
+            },
+            {
+              "id": "04-05-07",
+              "name": "SANTA MARTA",
+              "superficie23": "30.1",
+              "pop23": "4106",
+              "den23": "136.2"
+            },
+            {
+              "id": "04-05-08",
+              "name": "SANTA ROSA",
+              "superficie23": "47.5",
+              "pop23": "1677",
+              "den23": "35.3"
+            },
+            {
+              "id": "04-05-09",
+              "name": "SANTO DOMINGO",
+              "superficie23": "51.0",
+              "pop23": "3814",
+              "den23": "74.8"
+            },
+            {
+              "id": "04-05-10",
+              "name": "SORTOVÁ",
+              "superficie23": "33.6",
+              "pop23": "2850",
+              "den23": "84.9"
+            },
+            {
+              "id": "04-05-11",
+              "name": "EL BONGO",
+              "superficie23": "41.6",
+              "pop23": "1706",
+              "den23": "41.0"
+            },
+            {
+              "id": "04-05-12",
+              "name": "SOLANO",
+              "superficie23": "2.9",
+              "pop23": "4643",
+              "den23": "1606.8"
+            },
+            {
+              "id": "04-05-13",
+              "name": "SAN ISIDRO",
+              "superficie23": "47.1",
+              "pop23": "6629",
+              "den23": "140.8"
+            }
+          ]
+        },
+        {
+          "id": "04-06",
+          "name": "DAVID",
+          "superficie23": "892.4",
+          "pop23": "156498",
+          "den23": "175.4",
+          "corregimientos": [
+            {
+              "id": "04-06-01",
+              "name": "DAVID",
+              "superficie23": "15.7",
+              "pop23": "16051",
+              "den23": "1025.3"
+            },
+            {
+              "id": "04-06-02",
+              "name": "BIJAGUAL",
+              "superficie23": "83.8",
+              "pop23": "878",
+              "den23": "10.5"
+            },
+            {
+              "id": "04-06-03",
+              "name": "COCHEA",
+              "superficie23": "58.7",
+              "pop23": "3036",
+              "den23": "51.7"
+            },
+            {
+              "id": "04-06-04",
+              "name": "CHIRIQUÍ",
+              "superficie23": "213.6",
+              "pop23": "6703",
+              "den23": "31.4"
+            },
+            {
+              "id": "04-06-05",
+              "name": "GUACÁ",
+              "superficie23": "63.5",
+              "pop23": "2565",
+              "den23": "40.4"
+            },
+            {
+              "id": "04-06-06",
+              "name": "LAS LOMAS",
+              "superficie23": "77.1",
+              "pop23": "25297",
+              "den23": "328.1"
+            },
+            {
+              "id": "04-06-07",
+              "name": "PEDREGAL",
+              "superficie23": "159.4",
+              "pop23": "17078",
+              "den23": "107.1"
+            },
+            {
+              "id": "04-06-08",
+              "name": "SAN CARLOS",
+              "superficie23": "49.6",
+              "pop23": "5306",
+              "den23": "107.0"
+            },
+            {
+              "id": "04-06-09",
+              "name": "SAN PABLO NUEVO",
+              "superficie23": "59.1",
+              "pop23": "2731",
+              "den23": "46.2"
+            },
+            {
+              "id": "04-06-10",
+              "name": "SAN PABLO VIEJO",
+              "superficie23": "59.4",
+              "pop23": "16041",
+              "den23": "270.2"
+            },
+            {
+              "id": "04-06-11",
+              "name": "DAVID ESTE",
+              "superficie23": "28.9",
+              "pop23": "27145",
+              "den23": "937.7"
+            },
+            {
+              "id": "04-06-12",
+              "name": "DAVID SUR",
+              "superficie23": "23.7",
+              "pop23": "33667",
+              "den23": "1421.5"
+            }
+          ]
+        },
+        {
+          "id": "04-07",
+          "name": "DOLEGA",
+          "superficie23": "251.4",
+          "pop23": "37678",
+          "den23": "149.9",
+          "corregimientos": [
+            {
+              "id": "04-07-01",
+              "name": "DOLEGA",
+              "superficie23": "26.6",
+              "pop23": "4838",
+              "den23": "181.6"
+            },
+            {
+              "id": "04-07-02",
+              "name": "DOS RÍOS",
+              "superficie23": "18.2",
+              "pop23": "1857",
+              "den23": "101.8"
+            },
+            {
+              "id": "04-07-03",
+              "name": "LOS ANASTACIOS",
+              "superficie23": "10.8",
+              "pop23": "4262",
+              "den23": "393.3"
+            },
+            {
+              "id": "04-07-04",
+              "name": "POTRERILLOS",
+              "superficie23": "55.3",
+              "pop23": "1880",
+              "den23": "34.0"
+            },
+            {
+              "id": "04-07-05",
+              "name": "POTRERILLOS ABAJO",
+              "superficie23": "34.5",
+              "pop23": "2153",
+              "den23": "62.4"
+            },
+            {
+              "id": "04-07-06",
+              "name": "ROVIRA",
+              "superficie23": "45.0",
+              "pop23": "2285",
+              "den23": "50.7"
+            },
+            {
+              "id": "04-07-07",
+              "name": "TINAJAS",
+              "superficie23": "31.1",
+              "pop23": "2053",
+              "den23": "66.0"
+            },
+            {
+              "id": "04-07-08",
+              "name": "LOS ALGARROBOS",
+              "superficie23": "29.7",
+              "pop23": "18350",
+              "den23": "617.5"
+            }
+          ]
+        },
+        {
+          "id": "04-08",
+          "name": "GUALACA",
+          "superficie23": "619.0",
+          "pop23": "9831",
+          "den23": "15.9",
+          "corregimientos": [
+            {
+              "id": "04-08-01",
+              "name": "GUALACA",
+              "superficie23": "233.8",
+              "pop23": "5879",
+              "den23": "25.1"
+            },
+            {
+              "id": "04-08-02",
+              "name": "HORNITO",
+              "superficie23": "173.5",
+              "pop23": "1175",
+              "den23": "6.8"
+            },
+            {
+              "id": "04-08-03",
+              "name": "LOS ÁNGELES",
+              "superficie23": "80.3",
+              "pop23": "668",
+              "den23": "8.3"
+            },
+            {
+              "id": "04-08-04",
+              "name": "PAJA DE SOMBRERO",
+              "superficie23": "65.5",
+              "pop23": "633",
+              "den23": "9.7"
+            },
+            {
+              "id": "04-08-05",
+              "name": "RINCÓN",
+              "superficie23": "65.9",
+              "pop23": "1476",
+              "den23": "22.4"
+            }
+          ]
+        },
+        {
+          "id": "04-09",
+          "name": "REMEDIOS",
+          "superficie23": "172.2",
+          "pop23": "4388",
+          "den23": "25.5",
+          "corregimientos": [
+            {
+              "id": "04-09-01",
+              "name": "REMEDIOS",
+              "superficie23": "47.0",
+              "pop23": "844",
+              "den23": "18.0"
+            },
+            {
+              "id": "04-09-02",
+              "name": "EL NANCITO",
+              "superficie23": "34.9",
+              "pop23": "593",
+              "den23": "17.0"
+            },
+            {
+              "id": "04-09-03",
+              "name": "EL PORVENIR",
+              "superficie23": "28.0",
+              "pop23": "1568",
+              "den23": "56.0"
+            },
+            {
+              "id": "04-09-04",
+              "name": "EL PUERTO",
+              "superficie23": "36.6",
+              "pop23": "799",
+              "den23": "21.8"
+            },
+            {
+              "id": "04-09-05",
+              "name": "SANTA LUCIA",
+              "superficie23": "25.7",
+              "pop23": "584",
+              "den23": "22.7"
+            }
+          ]
+        },
+        {
+          "id": "04-10",
+          "name": "RENACIMIENTO",
+          "superficie23": "528.6",
+          "pop23": "22429",
+          "den23": "42.4",
+          "corregimientos": [
+            {
+              "id": "04-10-01",
+              "name": "RÍO SERENO",
+              "superficie23": "77.7",
+              "pop23": "6109",
+              "den23": "78.6"
+            },
+            {
+              "id": "04-10-02",
+              "name": "BREÑON",
+              "superficie23": "35.5",
+              "pop23": "645",
+              "den23": "18.1"
+            },
+            {
+              "id": "04-10-03",
+              "name": "CAÑAS GORDAS",
+              "superficie23": "60.8",
+              "pop23": "2508",
+              "den23": "41.2"
+            },
+            {
+              "id": "04-10-04",
+              "name": "MONTE LIRIO",
+              "superficie23": "46.0",
+              "pop23": "3477",
+              "den23": "75.7"
+            },
+            {
+              "id": "04-10-05",
+              "name": "PLAZA CAISÁN",
+              "superficie23": "96.6",
+              "pop23": "3518",
+              "den23": "36.4"
+            },
+            {
+              "id": "04-10-06",
+              "name": "SANTA CRUZ",
+              "superficie23": "59.5",
+              "pop23": "1880",
+              "den23": "31.6"
+            },
+            {
+              "id": "04-10-07",
+              "name": "DOMINICAL",
+              "superficie23": "82.7",
+              "pop23": "822",
+              "den23": "9.9"
+            },
+            {
+              "id": "04-10-08",
+              "name": "SANTA CLARA",
+              "superficie23": "69.7",
+              "pop23": "3470",
+              "den23": "49.8"
+            }
+          ]
+        },
+        {
+          "id": "04-11",
+          "name": "SAN FÉLIX",
+          "superficie23": "226.3",
+          "pop23": "6881",
+          "den23": "30.4",
+          "corregimientos": [
+            {
+              "id": "04-11-01",
+              "name": "LAS LAJAS",
+              "superficie23": "58.3",
+              "pop23": "1521",
+              "den23": "26.1"
+            },
+            {
+              "id": "04-11-02",
+              "name": "JUAY",
+              "superficie23": "33.9",
+              "pop23": "633",
+              "den23": "18.7"
+            },
+            {
+              "id": "04-11-03",
+              "name": "LAJAS ADENTRO",
+              "superficie23": "18.7",
+              "pop23": "868",
+              "den23": "46.3"
+            },
+            {
+              "id": "04-11-04",
+              "name": "SAN FELIX",
+              "superficie23": "56.5",
+              "pop23": "3333",
+              "den23": "59.0"
+            },
+            {
+              "id": "04-11-05",
+              "name": "SANTA CRUZ",
+              "superficie23": "58.9",
+              "pop23": "526",
+              "den23": "8.9"
+            }
+          ]
+        },
+        {
+          "id": "04-12",
+          "name": "SAN LORENZO",
+          "superficie23": "688.8",
+          "pop23": "8031",
+          "den23": "11.7",
+          "corregimientos": [
+            {
+              "id": "04-12-01",
+              "name": "HORCONCITOS",
+              "superficie23": "77.9",
+              "pop23": "1052",
+              "den23": "13.5"
+            },
+            {
+              "id": "04-12-02",
+              "name": "BOCA CHICA",
+              "superficie23": "115.8",
+              "pop23": "553",
+              "den23": "4.8"
+            },
+            {
+              "id": "04-12-03",
+              "name": "BOCA DEL MONTE",
+              "superficie23": "246.5",
+              "pop23": "2071",
+              "den23": "8.4"
+            },
+            {
+              "id": "04-12-04",
+              "name": "SAN JUAN",
+              "superficie23": "109.6",
+              "pop23": "1672",
+              "den23": "15.3"
+            },
+            {
+              "id": "04-12-05",
+              "name": "SAN LORENZO",
+              "superficie23": "139.0",
+              "pop23": "2683",
+              "den23": "19.3"
+            }
+          ]
+        },
+        {
+          "id": "04-13",
+          "name": "TOLÉ",
+          "superficie23": "484.9",
+          "pop23": "13193",
+          "den23": "27.2",
+          "corregimientos": [
+            {
+              "id": "04-13-01",
+              "name": "TOLÉ",
+              "superficie23": "78.5",
+              "pop23": "3372",
+              "den23": "43.0"
+            },
+            {
+              "id": "04-13-02",
+              "name": "BELLA VISTA",
+              "superficie23": "38.6",
+              "pop23": "759",
+              "den23": "19.7"
+            },
+            {
+              "id": "04-13-03",
+              "name": "CERRO VIEJO",
+              "superficie23": "58.5",
+              "pop23": "2057",
+              "den23": "35.2"
+            },
+            {
+              "id": "04-13-04",
+              "name": "EL CRISTO",
+              "superficie23": "31.9",
+              "pop23": "2043",
+              "den23": "64.0"
+            },
+            {
+              "id": "04-13-05",
+              "name": "JUSTO FIDEL PALACIOS",
+              "superficie23": "26.3",
+              "pop23": "808",
+              "den23": "30.7"
+            },
+            {
+              "id": "04-13-06",
+              "name": "LAJAS DE TOLÉ",
+              "superficie23": "70.8",
+              "pop23": "725",
+              "den23": "10.2"
+            },
+            {
+              "id": "04-13-07",
+              "name": "POTRERO DE CAÑA",
+              "superficie23": "19.1",
+              "pop23": "502",
+              "den23": "26.3"
+            },
+            {
+              "id": "04-13-08",
+              "name": "QUEBRADA DE PIEDRA",
+              "superficie23": "111.8",
+              "pop23": "1041",
+              "den23": "9.3"
+            },
+            {
+              "id": "04-13-09",
+              "name": "VELADERO",
+              "superficie23": "49.4",
+              "pop23": "1886",
+              "den23": "38.2"
+            }
+          ]
+        },
+        {
+          "id": "04-14",
+          "name": "TIERRAS ALTAS",
+          "superficie23": "359.8",
+          "pop23": "23525",
+          "den23": "65.4",
+          "corregimientos": [
+            {
+              "id": "04-14-01",
+              "name": "VOLCÁN",
+              "superficie23": "90.1",
+              "pop23": "7077",
+              "den23": "78.5"
+            },
+            {
+              "id": "04-14-02",
+              "name": "CERRO PUNTA",
+              "superficie23": "73.2",
+              "pop23": "4828",
+              "den23": "66.0"
+            },
+            {
+              "id": "04-14-03",
+              "name": "CUESTA DE PIEDRA",
+              "superficie23": "28.9",
+              "pop23": "955",
+              "den23": "33.0"
+            },
+            {
+              "id": "04-14-04",
+              "name": "NUEVA CALIFORNIA",
+              "superficie23": "123.1",
+              "pop23": "5995",
+              "den23": "48.7"
+            },
+            {
+              "id": "04-14-05",
+              "name": "PASO ANCHO",
+              "superficie23": "44.5",
+              "pop23": "4670",
+              "den23": "104.9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "name": "DARIÉN",
+      "superficie23": "12042.7",
+      "pop23": "54235",
+      "den23": "4.5",
+      "distritos": [
+        {
+          "id": "05-01",
+          "name": "CHEPIGANA",
+          "superficie23": "4697.5",
+          "pop23": "12983",
+          "den23": "2.8",
+          "corregimientos": [
+            {
+              "id": "05-01-01",
+              "name": "LA PALMA",
+              "superficie23": "572.0",
+              "pop23": "3793",
+              "den23": "6.6"
+            },
+            {
+              "id": "05-01-02",
+              "name": "CAMOGANTÍ",
+              "superficie23": "571.0",
+              "pop23": "377",
+              "den23": "0.7"
+            },
+            {
+              "id": "05-01-03",
+              "name": "CHEPIGANA",
+              "superficie23": "270.4",
+              "pop23": "796",
+              "den23": "2.9"
+            },
+            {
+              "id": "05-01-04",
+              "name": "GARACHINÉ",
+              "superficie23": "203.2",
+              "pop23": "1953",
+              "den23": "9.6"
+            },
+            {
+              "id": "05-01-05",
+              "name": "JAQUÉ",
+              "superficie23": "1095.7",
+              "pop23": "1738",
+              "den23": "1.6"
+            },
+            {
+              "id": "05-01-06",
+              "name": "PUERTO PIÑA",
+              "superficie23": "300.4",
+              "pop23": "1139",
+              "den23": "3.8"
+            },
+            {
+              "id": "05-01-07",
+              "name": "SAMBÚ",
+              "superficie23": "41.1",
+              "pop23": "856",
+              "den23": "20.8"
+            },
+            {
+              "id": "05-01-08",
+              "name": "SETEGANTÍ",
+              "superficie23": "95.7",
+              "pop23": "589",
+              "den23": "6.2"
+            },
+            {
+              "id": "05-01-09",
+              "name": "TAIMATÍ",
+              "superficie23": "196.8",
+              "pop23": "618",
+              "den23": "3.1"
+            },
+            {
+              "id": "05-01-10",
+              "name": "TUCUTÍ",
+              "superficie23": "1351.2",
+              "pop23": "1124",
+              "den23": "0.8"
+            }
+          ]
+        },
+        {
+          "id": "05-02",
+          "name": "PINOGANA",
+          "superficie23": "4894.8",
+          "pop23": "21523",
+          "den23": "4.4",
+          "corregimientos": [
+            {
+              "id": "05-02-01",
+              "name": "EL REAL DE SANTA MARÍA",
+              "superficie23": "118.0",
+              "pop23": "1078",
+              "den23": "9.1"
+            },
+            {
+              "id": "05-02-02",
+              "name": "BOCA DE CUPÉ",
+              "superficie23": "708.4",
+              "pop23": "1117",
+              "den23": "1.6"
+            },
+            {
+              "id": "05-02-03",
+              "name": "PAYA",
+              "superficie23": "1133.1",
+              "pop23": "862",
+              "den23": "0.8"
+            },
+            {
+              "id": "05-02-04",
+              "name": "PINOGANA",
+              "superficie23": "53.9",
+              "pop23": "477",
+              "den23": "8.8"
+            },
+            {
+              "id": "05-02-05",
+              "name": "PÚCURO",
+              "superficie23": "98.5",
+              "pop23": "427",
+              "den23": "4.3"
+            },
+            {
+              "id": "05-02-06",
+              "name": "YAPE",
+              "superficie23": "522.3",
+              "pop23": "266",
+              "den23": "0.5"
+            },
+            {
+              "id": "05-02-07",
+              "name": "YAVIZA",
+              "superficie23": "424.9",
+              "pop23": "4824",
+              "den23": "11.4"
+            },
+            {
+              "id": "05-02-08",
+              "name": "METETÍ",
+              "superficie23": "883.5",
+              "pop23": "9691",
+              "den23": "11.0"
+            },
+            {
+              "id": "05-02-09",
+              "name": "COMARCA KUNA DE WARGANDÍ",
+              "superficie23": "952.2",
+              "pop23": "2781",
+              "den23": "2.9"
+            }
+          ]
+        },
+        {
+          "id": "05-03",
+          "name": "SANTA FE",
+          "superficie23": "2450.4",
+          "pop23": "19729",
+          "den23": "8.1",
+          "corregimientos": [
+            {
+              "id": "05-03-01",
+              "name": "RÍO CONGO",
+              "superficie23": "533.6",
+              "pop23": "1429",
+              "den23": "2.7"
+            },
+            {
+              "id": "05-03-02",
+              "name": "RÍO IGLESIAS",
+              "superficie23": "490.8",
+              "pop23": "1986",
+              "den23": "4.0"
+            },
+            {
+              "id": "05-03-03",
+              "name": "AGUA FRÍA",
+              "superficie23": "314.1",
+              "pop23": "3160",
+              "den23": "10.1"
+            },
+            {
+              "id": "05-03-04",
+              "name": "CUCUNATÍ",
+              "superficie23": "200.0",
+              "pop23": "1190",
+              "den23": "5.9"
+            },
+            {
+              "id": "05-03-05",
+              "name": "RÍO CONGO ARRIBA",
+              "superficie23": "319.0",
+              "pop23": "2102",
+              "den23": "6.6"
+            },
+            {
+              "id": "05-03-06",
+              "name": "SANTA FE",
+              "superficie23": "476.3",
+              "pop23": "5747",
+              "den23": "12.1"
+            },
+            {
+              "id": "05-03-07",
+              "name": "ZAPALLAL",
+              "superficie23": "116.6",
+              "pop23": "4115",
+              "den23": "35.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "name": "HERRERA",
+      "superficie23": "2362.9",
+      "pop23": "122071",
+      "den23": "51.7",
+      "distritos": [
+        {
+          "id": "06-01",
+          "name": "CHITRÉ",
+          "superficie23": "88.4",
+          "pop23": "60957",
+          "den23": "689.6",
+          "corregimientos": [
+            {
+              "id": "06-01-01",
+              "name": "CHITRÉ",
+              "superficie23": "12.8",
+              "pop23": "9022",
+              "den23": "704.3"
+            },
+            {
+              "id": "06-01-02",
+              "name": "LA ARENA",
+              "superficie23": "27.6",
+              "pop23": "8780",
+              "den23": "317.6"
+            },
+            {
+              "id": "06-01-03",
+              "name": "MONAGRILLO",
+              "superficie23": "27.9",
+              "pop23": "19419",
+              "den23": "695.3"
+            },
+            {
+              "id": "06-01-04",
+              "name": "LLANO BONITO",
+              "superficie23": "11.6",
+              "pop23": "10938",
+              "den23": "946.1"
+            },
+            {
+              "id": "06-01-05",
+              "name": "SAN JUAN BAUTISTA",
+              "superficie23": "8.5",
+              "pop23": "12798",
+              "den23": "1514.5"
+            }
+          ]
+        },
+        {
+          "id": "06-02",
+          "name": "LAS MINAS",
+          "superficie23": "468.7",
+          "pop23": "6642",
+          "den23": "14.2",
+          "corregimientos": [
+            {
+              "id": "06-02-01",
+              "name": "LAS MINAS",
+              "superficie23": "57.3",
+              "pop23": "1988",
+              "den23": "34.7"
+            },
+            {
+              "id": "06-02-02",
+              "name": "CHEPO",
+              "superficie23": "142.0",
+              "pop23": "1289",
+              "den23": "9.1"
+            },
+            {
+              "id": "06-02-03",
+              "name": "CHUMICAL",
+              "superficie23": "24.9",
+              "pop23": "673",
+              "den23": "27.0"
+            },
+            {
+              "id": "06-02-04",
+              "name": "EL TORO",
+              "superficie23": "83.3",
+              "pop23": "619",
+              "den23": "7.4"
+            },
+            {
+              "id": "06-02-05",
+              "name": "LEONES",
+              "superficie23": "72.5",
+              "pop23": "640",
+              "den23": "8.8"
+            },
+            {
+              "id": "06-02-06",
+              "name": "QUEBRADA DEL ROSARIO",
+              "superficie23": "46.2",
+              "pop23": "682",
+              "den23": "14.8"
+            },
+            {
+              "id": "06-02-07",
+              "name": "QUEBRADA EL CIPRIÁN",
+              "superficie23": "42.6",
+              "pop23": "751",
+              "den23": "17.6"
+            }
+          ]
+        },
+        {
+          "id": "06-03",
+          "name": "LOS POZOS",
+          "superficie23": "384.8",
+          "pop23": "6928",
+          "den23": "18.0",
+          "corregimientos": [
+            {
+              "id": "06-03-01",
+              "name": "LOS POZOS",
+              "superficie23": "58.0",
+              "pop23": "2218",
+              "den23": "38.2"
+            },
+            {
+              "id": "06-03-02",
+              "name": "CAPURÍ",
+              "superficie23": "18.3",
+              "pop23": "471",
+              "den23": "25.7"
+            },
+            {
+              "id": "06-03-03",
+              "name": "EL CALABACITO",
+              "superficie23": "34.3",
+              "pop23": "568",
+              "den23": "16.6"
+            },
+            {
+              "id": "06-03-04",
+              "name": "EL CEDRO",
+              "superficie23": "34.1",
+              "pop23": "423",
+              "den23": "12.4"
+            },
+            {
+              "id": "06-03-05",
+              "name": "LA ARENA",
+              "superficie23": "23.8",
+              "pop23": "521",
+              "den23": "21.9"
+            },
+            {
+              "id": "06-03-06",
+              "name": "LA PITALOZA",
+              "superficie23": "84.9",
+              "pop23": "482",
+              "den23": "5.7"
+            },
+            {
+              "id": "06-03-07",
+              "name": "LOS CERRITOS",
+              "superficie23": "32.7",
+              "pop23": "940",
+              "den23": "28.8"
+            },
+            {
+              "id": "06-03-08",
+              "name": "LOS CERROS DE PAJA",
+              "superficie23": "37.0",
+              "pop23": "771",
+              "den23": "20.9"
+            },
+            {
+              "id": "06-03-09",
+              "name": "LAS LLANAS",
+              "superficie23": "61.8",
+              "pop23": "534",
+              "den23": "8.6"
+            }
+          ]
+        },
+        {
+          "id": "06-04",
+          "name": "OCÚ",
+          "superficie23": "618.6",
+          "pop23": "16116",
+          "den23": "26.1",
+          "corregimientos": [
+            {
+              "id": "06-04-01",
+              "name": "OCÚ",
+              "superficie23": "122.1",
+              "pop23": "7756",
+              "den23": "63.5"
+            },
+            {
+              "id": "06-04-02",
+              "name": "CERRO LARGO",
+              "superficie23": "52.2",
+              "pop23": "609",
+              "den23": "11.7"
+            },
+            {
+              "id": "06-04-03",
+              "name": "LOS LLANOS",
+              "superficie23": "98.0",
+              "pop23": "2069",
+              "den23": "21.1"
+            },
+            {
+              "id": "06-04-04",
+              "name": "LLANO GRANDE",
+              "superficie23": "71.3",
+              "pop23": "1106",
+              "den23": "15.5"
+            },
+            {
+              "id": "06-04-05",
+              "name": "PEÑAS CHATAS",
+              "superficie23": "88.9",
+              "pop23": "2033",
+              "den23": "22.9"
+            },
+            {
+              "id": "06-04-06",
+              "name": "EL TIJERA",
+              "superficie23": "66.9",
+              "pop23": "440",
+              "den23": "6.6"
+            },
+            {
+              "id": "06-04-07",
+              "name": "MENCHACA",
+              "superficie23": "66.4",
+              "pop23": "1479",
+              "den23": "22.3"
+            },
+            {
+              "id": "06-04-08",
+              "name": "ENTRADERO DEL CASTILLO",
+              "superficie23": "52.8",
+              "pop23": "624",
+              "den23": "11.8"
+            }
+          ]
+        },
+        {
+          "id": "06-05",
+          "name": "PARITA",
+          "superficie23": "354.0",
+          "pop23": "9695",
+          "den23": "27.4",
+          "corregimientos": [
+            {
+              "id": "06-05-01",
+              "name": "PARITA",
+              "superficie23": "108.9",
+              "pop23": "4180",
+              "den23": "38.4"
+            },
+            {
+              "id": "06-05-02",
+              "name": "CABUYA",
+              "superficie23": "59.5",
+              "pop23": "1136",
+              "den23": "19.1"
+            },
+            {
+              "id": "06-05-03",
+              "name": "LOS CASTILLOS",
+              "superficie23": "22.6",
+              "pop23": "823",
+              "den23": "36.5"
+            },
+            {
+              "id": "06-05-04",
+              "name": "LLANO DE LA CRUZ",
+              "superficie23": "10.8",
+              "pop23": "359",
+              "den23": "33.2"
+            },
+            {
+              "id": "06-05-05",
+              "name": "PARÍS",
+              "superficie23": "76.0",
+              "pop23": "1176",
+              "den23": "15.5"
+            },
+            {
+              "id": "06-05-06",
+              "name": "PORTOBELILLO",
+              "superficie23": "27.1",
+              "pop23": "961",
+              "den23": "35.4"
+            },
+            {
+              "id": "06-05-07",
+              "name": "POTUGA",
+              "superficie23": "49.1",
+              "pop23": "1060",
+              "den23": "21.6"
+            }
+          ]
+        },
+        {
+          "id": "06-06",
+          "name": "PESÉ",
+          "superficie23": "289.0",
+          "pop23": "13009",
+          "den23": "45.0",
+          "corregimientos": [
+            {
+              "id": "06-06-01",
+              "name": "PESÉ",
+              "superficie23": "5.5",
+              "pop23": "2771",
+              "den23": "505.6"
+            },
+            {
+              "id": "06-06-02",
+              "name": "LAS CABRAS",
+              "superficie23": "58.4",
+              "pop23": "2147",
+              "den23": "36.8"
+            },
+            {
+              "id": "06-06-03",
+              "name": "EL PÁJARO",
+              "superficie23": "23.3",
+              "pop23": "827",
+              "den23": "35.5"
+            },
+            {
+              "id": "06-06-04",
+              "name": "EL BARRERO",
+              "superficie23": "36.9",
+              "pop23": "2007",
+              "den23": "54.5"
+            },
+            {
+              "id": "06-06-05",
+              "name": "EL PEDREGOSO",
+              "superficie23": "31.5",
+              "pop23": "1500",
+              "den23": "47.6"
+            },
+            {
+              "id": "06-06-06",
+              "name": "EL CIRUELO",
+              "superficie23": "45.7",
+              "pop23": "777",
+              "den23": "17.0"
+            },
+            {
+              "id": "06-06-07",
+              "name": "SABANAGRANDE",
+              "superficie23": "58.2",
+              "pop23": "1617",
+              "den23": "27.8"
+            },
+            {
+              "id": "06-06-08",
+              "name": "RINCÓN HONDO",
+              "superficie23": "29.6",
+              "pop23": "1363",
+              "den23": "46.0"
+            }
+          ]
+        },
+        {
+          "id": "06-07",
+          "name": "SANTA MARÍA",
+          "superficie23": "159.4",
+          "pop23": "8724",
+          "den23": "54.7",
+          "corregimientos": [
+            {
+              "id": "06-07-01",
+              "name": "SANTA MARÍA",
+              "superficie23": "24.7",
+              "pop23": "2261",
+              "den23": "91.6"
+            },
+            {
+              "id": "06-07-02",
+              "name": "CHUPAMPA",
+              "superficie23": "23.8",
+              "pop23": "1334",
+              "den23": "56.1"
+            },
+            {
+              "id": "06-07-03",
+              "name": "EL RINCÓN",
+              "superficie23": "40.4",
+              "pop23": "1750",
+              "den23": "43.3"
+            },
+            {
+              "id": "06-07-04",
+              "name": "EL LIMÓN",
+              "superficie23": "23.4",
+              "pop23": "1258",
+              "den23": "53.6"
+            },
+            {
+              "id": "06-07-05",
+              "name": "LOS CANELOS",
+              "superficie23": "47.1",
+              "pop23": "2121",
+              "den23": "45.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "name": "LOS SANTOS",
+      "superficie23": "3812.0",
+      "pop23": "98466",
+      "den23": "25.8",
+      "distritos": [
+        {
+          "id": "07-01",
+          "name": "GUARARÉ",
+          "superficie23": "212.8",
+          "pop23": "12107",
+          "den23": "56.9",
+          "corregimientos": [
+            {
+              "id": "07-01-01",
+              "name": "GUARARÉ",
+              "superficie23": "16.7",
+              "pop23": "5388",
+              "den23": "322.1"
+            },
+            {
+              "id": "07-01-02",
+              "name": "EL ESPINAL",
+              "superficie23": "35.2",
+              "pop23": "1277",
+              "den23": "36.3"
+            },
+            {
+              "id": "07-01-03",
+              "name": "EL MACANO",
+              "superficie23": "29.0",
+              "pop23": "253",
+              "den23": "8.7"
+            },
+            {
+              "id": "07-01-04",
+              "name": "GUARARÉ ARRIBA",
+              "superficie23": "8.6",
+              "pop23": "379",
+              "den23": "44.2"
+            },
+            {
+              "id": "07-01-05",
+              "name": "LA ENEA",
+              "superficie23": "13.1",
+              "pop23": "1688",
+              "den23": "128.5"
+            },
+            {
+              "id": "07-01-06",
+              "name": "LA PASERA",
+              "superficie23": "17.5",
+              "pop23": "1245",
+              "den23": "71.2"
+            },
+            {
+              "id": "07-01-07",
+              "name": "LAS TRANCAS",
+              "superficie23": "29.1",
+              "pop23": "515",
+              "den23": "17.7"
+            },
+            {
+              "id": "07-01-08",
+              "name": "LLANO ABAJO",
+              "superficie23": "21.4",
+              "pop23": "574",
+              "den23": "26.9"
+            },
+            {
+              "id": "07-01-09",
+              "name": "EL HATO",
+              "superficie23": "24.3",
+              "pop23": "369",
+              "den23": "15.2"
+            },
+            {
+              "id": "07-01-10",
+              "name": "PERALES",
+              "superficie23": "17.8",
+              "pop23": "419",
+              "den23": "23.5"
+            }
+          ]
+        },
+        {
+          "id": "07-02",
+          "name": "LAS TABLAS",
+          "superficie23": "717.1",
+          "pop23": "30440",
+          "den23": "42.5",
+          "corregimientos": [
+            {
+              "id": "07-02-01",
+              "name": "LAS TABLAS",
+              "superficie23": "9.8",
+              "pop23": "8655",
+              "den23": "886.3"
+            },
+            {
+              "id": "07-02-02",
+              "name": "BAJO CORRAL",
+              "superficie23": "63.3",
+              "pop23": "465",
+              "den23": "7.3"
+            },
+            {
+              "id": "07-02-03",
+              "name": "BAYANO",
+              "superficie23": "114.0",
+              "pop23": "608",
+              "den23": "5.3"
+            },
+            {
+              "id": "07-02-04",
+              "name": "EL CARATE",
+              "superficie23": "17.7",
+              "pop23": "1308",
+              "den23": "73.9"
+            },
+            {
+              "id": "07-02-05",
+              "name": "EL COCAL",
+              "superficie23": "7.1",
+              "pop23": "2333",
+              "den23": "330.2"
+            },
+            {
+              "id": "07-02-06",
+              "name": "EL MANANTIAL",
+              "superficie23": "26.9",
+              "pop23": "1497",
+              "den23": "55.6"
+            },
+            {
+              "id": "07-02-07",
+              "name": "EL MUÑOZ",
+              "superficie23": "32.9",
+              "pop23": "400",
+              "den23": "12.1"
+            },
+            {
+              "id": "07-02-08",
+              "name": "EL PEDREGOSO",
+              "superficie23": "7.2",
+              "pop23": "288",
+              "den23": "39.9"
+            },
+            {
+              "id": "07-02-09",
+              "name": "LA LAJA",
+              "superficie23": "4.5",
+              "pop23": "605",
+              "den23": "134.0"
+            },
+            {
+              "id": "07-02-10",
+              "name": "LA MIEL",
+              "superficie23": "40.0",
+              "pop23": "243",
+              "den23": "6.1"
+            },
+            {
+              "id": "07-02-11",
+              "name": "LA PALMA",
+              "superficie23": "13.3",
+              "pop23": "1122",
+              "den23": "84.6"
+            },
+            {
+              "id": "07-02-12",
+              "name": "LA TIZA",
+              "superficie23": "3.8",
+              "pop23": "1843",
+              "den23": "484.7"
+            },
+            {
+              "id": "07-02-13",
+              "name": "LAS PALMITAS",
+              "superficie23": "11.2",
+              "pop23": "2743",
+              "den23": "244.9"
+            },
+            {
+              "id": "07-02-14",
+              "name": "LAS TABLAS ABAJO",
+              "superficie23": "15.9",
+              "pop23": "2170",
+              "den23": "136.6"
+            },
+            {
+              "id": "07-02-15",
+              "name": "NUARIO",
+              "superficie23": "95.1",
+              "pop23": "173",
+              "den23": "1.8"
+            },
+            {
+              "id": "07-02-16",
+              "name": "PALMIRA",
+              "superficie23": "9.5",
+              "pop23": "140",
+              "den23": "14.7"
+            },
+            {
+              "id": "07-02-17",
+              "name": "PEÑA BLANCA",
+              "superficie23": "7.9",
+              "pop23": "1043",
+              "den23": "132.3"
+            },
+            {
+              "id": "07-02-18",
+              "name": "RÍO HONDO",
+              "superficie23": "32.3",
+              "pop23": "182",
+              "den23": "5.6"
+            },
+            {
+              "id": "07-02-19",
+              "name": "SAN JOSÉ",
+              "superficie23": "61.8",
+              "pop23": "656",
+              "den23": "10.6"
+            }
+          ]
+        },
+        {
+          "id": "07-03",
+          "name": "LAS TABLAS:",
+          "superficie23": "",
+          "pop23": "",
+          "den23": "",
+          "corregimientos": [
+            {
+              "id": "07-03-01",
+              "name": "SAN MIGUEL",
+              "superficie23": "10.2",
+              "pop23": "114",
+              "den23": "11.2"
+            },
+            {
+              "id": "07-03-02",
+              "name": "SANTO DOMINGO",
+              "superficie23": "48.3",
+              "pop23": "2232",
+              "den23": "46.2"
+            },
+            {
+              "id": "07-03-03",
+              "name": "SESTEADERO",
+              "superficie23": "4.2",
+              "pop23": "1053",
+              "den23": "253.3"
+            },
+            {
+              "id": "07-03-04",
+              "name": "VALLE RICO",
+              "superficie23": "41.1",
+              "pop23": "324",
+              "den23": "7.9"
+            },
+            {
+              "id": "07-03-05",
+              "name": "VALLERRIQUITO",
+              "superficie23": "39.1",
+              "pop23": "243",
+              "den23": "6.2"
+            }
+          ]
+        },
+        {
+          "id": "07-04",
+          "name": "LOS SANTOS",
+          "superficie23": "432.1",
+          "pop23": "30028",
+          "den23": "69.5",
+          "corregimientos": [
+            {
+              "id": "07-04-01",
+              "name": "LA VILLA DE LOS SANTOS",
+              "superficie23": "74.5",
+              "pop23": "9724",
+              "den23": "130.5"
+            },
+            {
+              "id": "07-04-02",
+              "name": "EL GUÁSIMO",
+              "superficie23": "30.8",
+              "pop23": "629",
+              "den23": "20.4"
+            },
+            {
+              "id": "07-04-03",
+              "name": "LA COLORADA",
+              "superficie23": "20.6",
+              "pop23": "1018",
+              "den23": "49.5"
+            },
+            {
+              "id": "07-04-04",
+              "name": "LA ESPIGADILLA",
+              "superficie23": "29.4",
+              "pop23": "1782",
+              "den23": "60.7"
+            },
+            {
+              "id": "07-04-05",
+              "name": "LAS CRUCES",
+              "superficie23": "43.3",
+              "pop23": "1463",
+              "den23": "33.8"
+            },
+            {
+              "id": "07-04-06",
+              "name": "LAS GUABAS",
+              "superficie23": "21.7",
+              "pop23": "728",
+              "den23": "33.6"
+            },
+            {
+              "id": "07-04-07",
+              "name": "LOS ANGELES",
+              "superficie23": "20.6",
+              "pop23": "943",
+              "den23": "45.8"
+            },
+            {
+              "id": "07-04-08",
+              "name": "LOS OLIVOS",
+              "superficie23": "27.0",
+              "pop23": "1484",
+              "den23": "54.9"
+            },
+            {
+              "id": "07-04-09",
+              "name": "LLANO LARGO",
+              "superficie23": "10.3",
+              "pop23": "2689",
+              "den23": "262.0"
+            },
+            {
+              "id": "07-04-10",
+              "name": "SABANAGRANDE",
+              "superficie23": "33.1",
+              "pop23": "2051",
+              "den23": "61.9"
+            },
+            {
+              "id": "07-04-11",
+              "name": "SANTA ANA",
+              "superficie23": "54.8",
+              "pop23": "2004",
+              "den23": "36.6"
+            },
+            {
+              "id": "07-04-12",
+              "name": "TRES QUEBRADAS",
+              "superficie23": "12.6",
+              "pop23": "864",
+              "den23": "68.6"
+            },
+            {
+              "id": "07-04-13",
+              "name": "AGUA BUENA",
+              "superficie23": "10.4",
+              "pop23": "1260",
+              "den23": "121.7"
+            },
+            {
+              "id": "07-04-14",
+              "name": "VILLA LOURDES",
+              "superficie23": "27.6",
+              "pop23": "1203",
+              "den23": "43.6"
+            },
+            {
+              "id": "07-04-15",
+              "name": "EL EJIDO",
+              "superficie23": "15.5",
+              "pop23": "2186",
+              "den23": "141.0"
+            }
+          ]
+        },
+        {
+          "id": "07-05",
+          "name": "MACARACAS",
+          "superficie23": "505.4",
+          "pop23": "8965",
+          "den23": "17.7",
+          "corregimientos": [
+            {
+              "id": "07-05-01",
+              "name": "MACARACAS",
+              "superficie23": "35.0",
+              "pop23": "2832",
+              "den23": "81.0"
+            },
+            {
+              "id": "07-05-02",
+              "name": "BAHÍA HONDA",
+              "superficie23": "28.3",
+              "pop23": "686",
+              "den23": "24.2"
+            },
+            {
+              "id": "07-05-03",
+              "name": "BAJOS DE GÜERA",
+              "superficie23": "95.0",
+              "pop23": "471",
+              "den23": "5.0"
+            },
+            {
+              "id": "07-05-04",
+              "name": "COROZAL",
+              "superficie23": "26.4",
+              "pop23": "637",
+              "den23": "24.1"
+            },
+            {
+              "id": "07-05-05",
+              "name": "CHUPÁ",
+              "superficie23": "17.8",
+              "pop23": "571",
+              "den23": "32.0"
+            },
+            {
+              "id": "07-05-06",
+              "name": "EL CEDRO",
+              "superficie23": "28.2",
+              "pop23": "502",
+              "den23": "17.8"
+            },
+            {
+              "id": "07-05-07",
+              "name": "ESPINO AMARILLO",
+              "superficie23": "26.6",
+              "pop23": "211",
+              "den23": "7.9"
+            },
+            {
+              "id": "07-05-08",
+              "name": "LA MESA",
+              "superficie23": "48.5",
+              "pop23": "673",
+              "den23": "13.9"
+            },
+            {
+              "id": "07-05-09",
+              "name": "LAS PALMAS",
+              "superficie23": "42.5",
+              "pop23": "395",
+              "den23": "9.3"
+            },
+            {
+              "id": "07-05-10",
+              "name": "LLANO DE PIEDRA",
+              "superficie23": "101.7",
+              "pop23": "1804",
+              "den23": "17.7"
+            },
+            {
+              "id": "07-05-11",
+              "name": "MOGOLLÓN",
+              "superficie23": "55.5",
+              "pop23": "183",
+              "den23": "3.3"
+            }
+          ]
+        },
+        {
+          "id": "07-06",
+          "name": "PEDASÍ",
+          "superficie23": "376.6",
+          "pop23": "4942",
+          "den23": "13.1",
+          "corregimientos": [
+            {
+              "id": "07-06-01",
+              "name": "PEDASÍ",
+              "superficie23": "112.9",
+              "pop23": "2980",
+              "den23": "26.4"
+            },
+            {
+              "id": "07-06-02",
+              "name": "LOS ASIENTOS",
+              "superficie23": "90.0",
+              "pop23": "714",
+              "den23": "7.9"
+            },
+            {
+              "id": "07-06-03",
+              "name": "MARIABÉ",
+              "superficie23": "46.9",
+              "pop23": "373",
+              "den23": "7.9"
+            },
+            {
+              "id": "07-06-04",
+              "name": "PURIO",
+              "superficie23": "24.2",
+              "pop23": "498",
+              "den23": "20.6"
+            },
+            {
+              "id": "07-06-05",
+              "name": "ORIA ARRIBA",
+              "superficie23": "102.6",
+              "pop23": "377",
+              "den23": "3.7"
+            }
+          ]
+        },
+        {
+          "id": "07-07",
+          "name": "POCRÍ",
+          "superficie23": "276.2",
+          "pop23": "3025",
+          "den23": "11.0",
+          "corregimientos": [
+            {
+              "id": "07-07-01",
+              "name": "POCRÍ",
+              "superficie23": "57.4",
+              "pop23": "983",
+              "den23": "17.1"
+            },
+            {
+              "id": "07-07-02",
+              "name": "EL CAÑAFÍSTULO",
+              "superficie23": "56.7",
+              "pop23": "271",
+              "den23": "4.8"
+            },
+            {
+              "id": "07-07-03",
+              "name": "LAJAMINA",
+              "superficie23": "52.0",
+              "pop23": "459",
+              "den23": "8.8"
+            },
+            {
+              "id": "07-07-04",
+              "name": "PARAÍSO",
+              "superficie23": "61.3",
+              "pop23": "589",
+              "den23": "9.6"
+            },
+            {
+              "id": "07-07-05",
+              "name": "PARITILLA",
+              "superficie23": "48.7",
+              "pop23": "723",
+              "den23": "14.8"
+            }
+          ]
+        },
+        {
+          "id": "07-08",
+          "name": "TONOSÍ",
+          "superficie23": "1291.8",
+          "pop23": "8959",
+          "den23": "6.9",
+          "corregimientos": [
+            {
+              "id": "07-08-01",
+              "name": "TONOSÍ",
+              "superficie23": "85.3",
+              "pop23": "2170",
+              "den23": "25.5"
+            },
+            {
+              "id": "07-08-02",
+              "name": "ALTOS DE GÜERA",
+              "superficie23": "140.1",
+              "pop23": "498",
+              "den23": "3.6"
+            },
+            {
+              "id": "07-08-03",
+              "name": "CAÑAS",
+              "superficie23": "97.0",
+              "pop23": "703",
+              "den23": "7.2"
+            },
+            {
+              "id": "07-08-04",
+              "name": "EL BEBEDERO",
+              "superficie23": "115.6",
+              "pop23": "1297",
+              "den23": "11.2"
+            },
+            {
+              "id": "07-08-05",
+              "name": "EL CACAO",
+              "superficie23": "92.2",
+              "pop23": "970",
+              "den23": "10.5"
+            },
+            {
+              "id": "07-08-06",
+              "name": "EL CORTEZO",
+              "superficie23": "150.7",
+              "pop23": "544",
+              "den23": "3.6"
+            },
+            {
+              "id": "07-08-07",
+              "name": "FLORES",
+              "superficie23": "105.7",
+              "pop23": "538",
+              "den23": "5.1"
+            },
+            {
+              "id": "07-08-08",
+              "name": "GUÁNICO",
+              "superficie23": "209.7",
+              "pop23": "827",
+              "den23": "3.9"
+            },
+            {
+              "id": "07-08-09",
+              "name": "LA TRONOSA",
+              "superficie23": "84.5",
+              "pop23": "476",
+              "den23": "5.6"
+            },
+            {
+              "id": "07-08-10",
+              "name": "CAMBUTAL",
+              "superficie23": "183.6",
+              "pop23": "575",
+              "den23": "3.1"
+            },
+            {
+              "id": "07-08-11",
+              "name": "ISLA DE CAÑAS",
+              "superficie23": "27.3",
+              "pop23": "361",
+              "den23": "13.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "name": "PANAMÁ",
+      "superficie23": "8478.5",
+      "pop23": "1439575",
+      "den23": "169.8",
+      "distritos": [
+        {
+          "id": "08-01",
+          "name": "BALBOA",
+          "superficie23": "331.8",
+          "pop23": "1989",
+          "den23": "6.0",
+          "corregimientos": [
+            {
+              "id": "08-01-01",
+              "name": "SAN MIGUEL",
+              "superficie23": "129.3",
+              "pop23": "738",
+              "den23": "5.7"
+            },
+            {
+              "id": "08-01-02",
+              "name": "LA ENSENADA",
+              "superficie23": "66.3",
+              "pop23": "55",
+              "den23": "0.8"
+            },
+            {
+              "id": "08-01-03",
+              "name": "LA ESMERALDA",
+              "superficie23": "39.2",
+              "pop23": "570",
+              "den23": "14.5"
+            },
+            {
+              "id": "08-01-04",
+              "name": "LA GUINEA",
+              "superficie23": "29.4",
+              "pop23": "42",
+              "den23": "1.4"
+            },
+            {
+              "id": "08-01-05",
+              "name": "PEDRO GONZÁLEZ",
+              "superficie23": "59.7",
+              "pop23": "287",
+              "den23": "4.8"
+            },
+            {
+              "id": "08-01-06",
+              "name": "SABOGA",
+              "superficie23": "7.9",
+              "pop23": "297",
+              "den23": "37.6"
+            }
+          ]
+        },
+        {
+          "id": "08-02",
+          "name": "CHEPO",
+          "superficie23": "5043.5",
+          "pop23": "65588",
+          "den23": "13.0",
+          "corregimientos": [
+            {
+              "id": "08-02-01",
+              "name": "CHEPO",
+              "superficie23": "429.6",
+              "pop23": "34425",
+              "den23": "80.1"
+            },
+            {
+              "id": "08-02-02",
+              "name": "CAÑITA",
+              "superficie23": "402.6",
+              "pop23": "2764",
+              "den23": "6.9"
+            },
+            {
+              "id": "08-02-03",
+              "name": "CHEPILLO",
+              "superficie23": "0.5",
+              "pop23": "195",
+              "den23": "355.4"
+            },
+            {
+              "id": "08-02-04",
+              "name": "EL LLANO",
+              "superficie23": "440.8",
+              "pop23": "3312",
+              "den23": "7.5"
+            },
+            {
+              "id": "08-02-05",
+              "name": "LAS MARGARITAS",
+              "superficie23": "261.9",
+              "pop23": "5658",
+              "den23": "21.6"
+            },
+            {
+              "id": "08-02-06",
+              "name": "SANTA CRUZ DE CHININA",
+              "superficie23": "361.5",
+              "pop23": "1200",
+              "den23": "3.3"
+            },
+            {
+              "id": "08-02-07",
+              "name": "COMARCA KUNA DE MADUNGANDÍ",
+              "superficie23": "2127.2",
+              "pop23": "7647",
+              "den23": "3.6"
+            },
+            {
+              "id": "08-02-08",
+              "name": "TORTÍ",
+              "superficie23": "1019.4",
+              "pop23": "10387",
+              "den23": "10.2"
+            }
+          ]
+        },
+        {
+          "id": "08-03",
+          "name": "CHIMÁN",
+          "superficie23": "995.5",
+          "pop23": "3142",
+          "den23": "3.2",
+          "corregimientos": [
+            {
+              "id": "08-03-01",
+              "name": "CHIMÁN",
+              "superficie23": "222.2",
+              "pop23": "1013",
+              "den23": "4.6"
+            },
+            {
+              "id": "08-03-02",
+              "name": "BRUJAS",
+              "superficie23": "149.9",
+              "pop23": "614",
+              "den23": "4.1"
+            },
+            {
+              "id": "08-03-03",
+              "name": "GONZALO VÁSQUEZ",
+              "superficie23": "41.8",
+              "pop23": "207",
+              "den23": "4.9"
+            },
+            {
+              "id": "08-03-04",
+              "name": "PÁSIGA",
+              "superficie23": "195.8",
+              "pop23": "459",
+              "den23": "2.3"
+            },
+            {
+              "id": "08-03-05",
+              "name": "UNIÓN SANTEÑA",
+              "superficie23": "385.7",
+              "pop23": "849",
+              "den23": "2.2"
+            }
+          ]
+        },
+        {
+          "id": "08-04",
+          "name": "PANAMÁ",
+          "superficie23": "2045.6",
+          "pop23": "1086990",
+          "den23": "531.4",
+          "corregimientos": []
+        },
+        {
+          "id": "08-05",
+          "name": "CIUDAD DE PANAMÁ",
+          "superficie23": "86.6",
+          "pop23": "410354",
+          "den23": "4740.2",
+          "corregimientos": [
+            {
+              "id": "08-05-01",
+              "name": "SAN FELIPE",
+              "superficie23": "0.3",
+              "pop23": "1258",
+              "den23": "4089.0"
+            },
+            {
+              "id": "08-05-02",
+              "name": "EL CHORRILLO",
+              "superficie23": "0.5",
+              "pop23": "16335",
+              "den23": "33264.4"
+            },
+            {
+              "id": "08-05-03",
+              "name": "SANTA ANA",
+              "superficie23": "0.8",
+              "pop23": "13495",
+              "den23": "17049.9"
+            },
+            {
+              "id": "08-05-04",
+              "name": "LA EXPOSICIÓN O CALIDONIA",
+              "superficie23": "1.8",
+              "pop23": "17300",
+              "den23": "9721.3"
+            },
+            {
+              "id": "08-05-05",
+              "name": "CURUNDÚ",
+              "superficie23": "1.2",
+              "pop23": "15458",
+              "den23": "12861.2"
+            },
+            {
+              "id": "08-05-06",
+              "name": "BETANIA",
+              "superficie23": "8.2",
+              "pop23": "42199",
+              "den23": "5124.5"
+            },
+            {
+              "id": "08-05-07",
+              "name": "BELLA VISTA",
+              "superficie23": "4.6",
+              "pop23": "33710",
+              "den23": "7358.4"
+            }
+          ]
+        },
+        {
+          "id": "08-06",
+          "name": "CIUDAD DE PANAMÁ:",
+          "superficie23": "",
+          "pop23": "",
+          "den23": "",
+          "corregimientos": [
+            {
+              "id": "08-06-01",
+              "name": "PUEBLO NUEVO",
+              "superficie23": "3.1",
+              "pop23": "24167",
+              "den23": "7709.0"
+            },
+            {
+              "id": "08-06-02",
+              "name": "SAN FRANCISCO",
+              "superficie23": "6.7",
+              "pop23": "61290",
+              "den23": "9210.1"
+            },
+            {
+              "id": "08-06-03",
+              "name": "PARQUE LEFEVRE",
+              "superficie23": "7.2",
+              "pop23": "42832",
+              "den23": "5923.7"
+            },
+            {
+              "id": "08-06-04",
+              "name": "RÍO ABAJO",
+              "superficie23": "3.8",
+              "pop23": "28045",
+              "den23": "7344.3"
+            },
+            {
+              "id": "08-06-05",
+              "name": "JUAN DÍAZ",
+              "superficie23": "19.8",
+              "pop23": "56583",
+              "den23": "2856.7"
+            },
+            {
+              "id": "08-06-06",
+              "name": "PEDREGAL",
+              "superficie23": "28.5",
+              "pop23": "57682",
+              "den23": "2021.5"
+            }
+          ]
+        },
+        {
+          "id": "08-07",
+          "name": "RESTO DEL DISTRITO",
+          "superficie23": "1959.1",
+          "pop23": "676636",
+          "den23": "345.4",
+          "corregimientos": [
+            {
+              "id": "08-07-01",
+              "name": "ANCÓN",
+              "superficie23": "193.4",
+              "pop23": "37224",
+              "den23": "192.4"
+            },
+            {
+              "id": "08-07-02",
+              "name": "CHILIBRE",
+              "superficie23": "58.2",
+              "pop23": "49582",
+              "den23": "852.1"
+            },
+            {
+              "id": "08-07-03",
+              "name": "LAS CUMBRES",
+              "superficie23": "27.9",
+              "pop23": "39923",
+              "den23": "1433.4"
+            },
+            {
+              "id": "08-07-04",
+              "name": "PACORA",
+              "superficie23": "211.5",
+              "pop23": "70283",
+              "den23": "332.4"
+            },
+            {
+              "id": "08-07-05",
+              "name": "SAN MARTÍN",
+              "superficie23": "140.4",
+              "pop23": "5485",
+              "den23": "39.1"
+            },
+            {
+              "id": "08-07-06",
+              "name": "TOCUMEN",
+              "superficie23": "64.8",
+              "pop23": "89361",
+              "den23": "1379.0"
+            },
+            {
+              "id": "08-07-07",
+              "name": "LAS MAÑANITAS",
+              "superficie23": "23.9",
+              "pop23": "45241",
+              "den23": "1890.5"
+            },
+            {
+              "id": "08-07-08",
+              "name": "24 DE DICIEMBRE",
+              "superficie23": "81.2",
+              "pop23": "79965",
+              "den23": "985.3"
+            },
+            {
+              "id": "08-07-09",
+              "name": "ALCALDE DÍAZ",
+              "superficie23": "43.1",
+              "pop23": "46976",
+              "den23": "1089.8"
+            },
+            {
+              "id": "08-07-10",
+              "name": "ERNESTO CÓRDOBA CAMPOS",
+              "superficie23": "30.0",
+              "pop23": "71613",
+              "den23": "2389.9"
+            },
+            {
+              "id": "08-07-11",
+              "name": "CAIMITILLO",
+              "superficie23": "893.1",
+              "pop23": "34097",
+              "den23": "38.2"
+            },
+            {
+              "id": "08-07-12",
+              "name": "LAS GARZAS",
+              "superficie23": "174.8",
+              "pop23": "56980",
+              "den23": "326.0"
+            },
+            {
+              "id": "08-07-13",
+              "name": "DON BOSCO",
+              "superficie23": "16.8",
+              "pop23": "49906",
+              "den23": "2965.5"
+            }
+          ]
+        },
+        {
+          "id": "08-08",
+          "name": "SAN MIGUELITO",
+          "superficie23": "49.9",
+          "pop23": "280777",
+          "den23": "5629.6",
+          "corregimientos": [
+            {
+              "id": "08-08-01",
+              "name": "AMELIA DENIS DE ICAZA",
+              "superficie23": "3.8",
+              "pop23": "29208",
+              "den23": "7718.6"
+            },
+            {
+              "id": "08-08-02",
+              "name": "BELISARIO PORRAS",
+              "superficie23": "4.0",
+              "pop23": "44129",
+              "den23": "11023.7"
+            },
+            {
+              "id": "08-08-03",
+              "name": "JOSÉ DOMINGO ESPINAR",
+              "superficie23": "7.1",
+              "pop23": "44448",
+              "den23": "6250.2"
+            },
+            {
+              "id": "08-08-04",
+              "name": "MATEO ITURRALDE",
+              "superficie23": "1.0",
+              "pop23": "9638",
+              "den23": "9738.4"
+            },
+            {
+              "id": "08-08-05",
+              "name": "VICTORIANO LORENZO",
+              "superficie23": "2.0",
+              "pop23": "15181",
+              "den23": "7538.5"
+            },
+            {
+              "id": "08-08-06",
+              "name": "ARNULFO ARIAS",
+              "superficie23": "3.5",
+              "pop23": "31433",
+              "den23": "8977.4"
+            },
+            {
+              "id": "08-08-07",
+              "name": "BELISARIO FRÍAS",
+              "superficie23": "4.7",
+              "pop23": "33072",
+              "den23": "6968.8"
+            },
+            {
+              "id": "08-08-08",
+              "name": "OMAR TORRIJOS",
+              "superficie23": "11.0",
+              "pop23": "32403",
+              "den23": "2949.1"
+            },
+            {
+              "id": "08-08-09",
+              "name": "RUFINA ALFARO",
+              "superficie23": "12.7",
+              "pop23": "41265",
+              "den23": "3239.3"
+            }
+          ]
+        },
+        {
+          "id": "08-09",
+          "name": "TABOGA",
+          "superficie23": "12.2",
+          "pop23": "1089",
+          "den23": "89.4",
+          "corregimientos": [
+            {
+              "id": "08-09-01",
+              "name": "TABOGA",
+              "superficie23": "8.6",
+              "pop23": "734",
+              "den23": "85.1"
+            },
+            {
+              "id": "08-09-02",
+              "name": "OTOQUE OCCIDENTE",
+              "superficie23": "1.7",
+              "pop23": "167",
+              "den23": "100.9"
+            },
+            {
+              "id": "08-09-03",
+              "name": "OTOQUE ORIENTE",
+              "superficie23": "1.9",
+              "pop23": "188",
+              "den23": "98.8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "name": "PANAMÁ OESTE",
+      "superficie23": "2892.1",
+      "pop23": "653665",
+      "den23": "226.0",
+      "distritos": [
+        {
+          "id": "09-01",
+          "name": "ARRAIJÁN",
+          "superficie23": "418.1",
+          "pop23": "299079",
+          "den23": "715.3",
+          "corregimientos": [
+            {
+              "id": "09-01-01",
+              "name": "ARRAIJÁN",
+              "superficie23": "65.7",
+              "pop23": "44327",
+              "den23": "674.5"
+            },
+            {
+              "id": "09-01-02",
+              "name": "JUAN DEMÓSTENES AROSEMENA",
+              "superficie23": "40.7",
+              "pop23": "66474",
+              "den23": "1631.5"
+            },
+            {
+              "id": "09-01-03",
+              "name": "NUEVO EMPERADOR",
+              "superficie23": "107.9",
+              "pop23": "10414",
+              "den23": "96.5"
+            },
+            {
+              "id": "09-01-04",
+              "name": "SANTA CLARA",
+              "superficie23": "53.5",
+              "pop23": "2630",
+              "den23": "49.2"
+            },
+            {
+              "id": "09-01-05",
+              "name": "VERACRUZ",
+              "superficie23": "49.4",
+              "pop23": "24486",
+              "den23": "496.2"
+            },
+            {
+              "id": "09-01-06",
+              "name": "VISTA ALEGRE",
+              "superficie23": "11.4",
+              "pop23": "21417",
+              "den23": "1883.9"
+            },
+            {
+              "id": "09-01-07",
+              "name": "BURUNGA",
+              "superficie23": "51.7",
+              "pop23": "51167",
+              "den23": "988.8"
+            },
+            {
+              "id": "09-01-08",
+              "name": "CERRO SILVESTRE",
+              "superficie23": "19.0",
+              "pop23": "31567",
+              "den23": "1663.8"
+            },
+            {
+              "id": "09-01-09",
+              "name": "VACAMONTE",
+              "superficie23": "18.8",
+              "pop23": "46597",
+              "den23": "2474.6"
+            }
+          ]
+        },
+        {
+          "id": "09-02",
+          "name": "CAPIRA",
+          "superficie23": "974.0",
+          "pop23": "45629",
+          "den23": "46.8",
+          "corregimientos": [
+            {
+              "id": "09-02-01",
+              "name": "CAPIRA",
+              "superficie23": "48.5",
+              "pop23": "5819",
+              "den23": "120.0"
+            },
+            {
+              "id": "09-02-02",
+              "name": "CAIMITO",
+              "superficie23": "42.6",
+              "pop23": "2084",
+              "den23": "49.0"
+            },
+            {
+              "id": "09-02-03",
+              "name": "CAMPANA",
+              "superficie23": "75.1",
+              "pop23": "2268",
+              "den23": "30.2"
+            },
+            {
+              "id": "09-02-04",
+              "name": "CERMEÑO",
+              "superficie23": "93.2",
+              "pop23": "2274",
+              "den23": "24.4"
+            },
+            {
+              "id": "09-02-05",
+              "name": "CIRÍ DE LOS SOTOS",
+              "superficie23": "92.1",
+              "pop23": "2313",
+              "den23": "25.1"
+            },
+            {
+              "id": "09-02-06",
+              "name": "CIRÍ GRANDE",
+              "superficie23": "147.0",
+              "pop23": "4593",
+              "den23": "31.2"
+            },
+            {
+              "id": "09-02-07",
+              "name": "EL CACAO",
+              "superficie23": "177.3",
+              "pop23": "5639",
+              "den23": "31.8"
+            },
+            {
+              "id": "09-02-08",
+              "name": "LA TRINIDAD",
+              "superficie23": "106.1",
+              "pop23": "2991",
+              "den23": "28.2"
+            },
+            {
+              "id": "09-02-09",
+              "name": "LAS OLLAS ARRIBA",
+              "superficie23": "26.2",
+              "pop23": "1550",
+              "den23": "59.1"
+            },
+            {
+              "id": "09-02-10",
+              "name": "LÍDICE",
+              "superficie23": "42.3",
+              "pop23": "6315",
+              "den23": "149.5"
+            },
+            {
+              "id": "09-02-11",
+              "name": "VILLA CARMEN",
+              "superficie23": "6.2",
+              "pop23": "1697",
+              "den23": "272.2"
+            },
+            {
+              "id": "09-02-12",
+              "name": "VILLA ROSARIO",
+              "superficie23": "23.5",
+              "pop23": "5920",
+              "den23": "252.0"
+            },
+            {
+              "id": "09-02-13",
+              "name": "SANTA ROSA",
+              "superficie23": "93.9",
+              "pop23": "2166",
+              "den23": "23.1"
+            }
+          ]
+        },
+        {
+          "id": "09-03",
+          "name": "CHAME",
+          "superficie23": "375.3",
+          "pop23": "28535",
+          "den23": "76.0",
+          "corregimientos": [
+            {
+              "id": "09-03-01",
+              "name": "CHAME",
+              "superficie23": "31.3",
+              "pop23": "2544",
+              "den23": "81.3"
+            },
+            {
+              "id": "09-03-02",
+              "name": "BEJUCO",
+              "superficie23": "59.4",
+              "pop23": "6242",
+              "den23": "105.0"
+            },
+            {
+              "id": "09-03-03",
+              "name": "BUENOS AIRES",
+              "superficie23": "40.9",
+              "pop23": "2288",
+              "den23": "56.0"
+            },
+            {
+              "id": "09-03-04",
+              "name": "CABUYA",
+              "superficie23": "44.7",
+              "pop23": "2078",
+              "den23": "46.5"
+            },
+            {
+              "id": "09-03-05",
+              "name": "CHICÁ",
+              "superficie23": "18.4",
+              "pop23": "882",
+              "den23": "47.8"
+            },
+            {
+              "id": "09-03-06",
+              "name": "EL LÍBANO",
+              "superficie23": "30.5",
+              "pop23": "299",
+              "den23": "9.8"
+            },
+            {
+              "id": "09-03-07",
+              "name": "LAS LAJAS",
+              "superficie23": "13.3",
+              "pop23": "3893",
+              "den23": "292.7"
+            },
+            {
+              "id": "09-03-08",
+              "name": "NUEVA GORGONA",
+              "superficie23": "19.2",
+              "pop23": "4945",
+              "den23": "256.9"
+            },
+            {
+              "id": "09-03-09",
+              "name": "PUNTA CHAME",
+              "superficie23": "16.6",
+              "pop23": "477",
+              "den23": "28.8"
+            },
+            {
+              "id": "09-03-10",
+              "name": "SAJALICES",
+              "superficie23": "24.8",
+              "pop23": "3004",
+              "den23": "121.0"
+            },
+            {
+              "id": "09-03-11",
+              "name": "SORÁ",
+              "superficie23": "76.2",
+              "pop23": "1883",
+              "den23": "24.7"
+            }
+          ]
+        },
+        {
+          "id": "09-04",
+          "name": "LA CHORRERA",
+          "superficie23": "787.9",
+          "pop23": "258221",
+          "den23": "327.7",
+          "corregimientos": []
+        },
+        {
+          "id": "09-05",
+          "name": "LA CHORRERA",
+          "superficie23": "22.7",
+          "pop23": "65438",
+          "den23": "2888.3",
+          "corregimientos": [
+            {
+              "id": "09-05-01",
+              "name": "BARRIO BALBOA",
+              "superficie23": "7.9",
+              "pop23": "26165",
+              "den23": "3324.8"
+            },
+            {
+              "id": "09-05-02",
+              "name": "BARRIO COLÓN",
+              "superficie23": "14.8",
+              "pop23": "39273",
+              "den23": "2656.0"
+            }
+          ]
+        },
+        {
+          "id": "09-06",
+          "name": "RESTO DEL DISTRITO",
+          "superficie23": "765.2",
+          "pop23": "192783",
+          "den23": "251.9",
+          "corregimientos": [
+            {
+              "id": "09-06-01",
+              "name": "AMADOR",
+              "superficie23": "133.4",
+              "pop23": "3337",
+              "den23": "25.0"
+            },
+            {
+              "id": "09-06-02",
+              "name": "AROSEMENA",
+              "superficie23": "31.3",
+              "pop23": "586",
+              "den23": "18.7"
+            },
+            {
+              "id": "09-06-03",
+              "name": "EL ARADO",
+              "superficie23": "70.4",
+              "pop23": "6242",
+              "den23": "88.7"
+            },
+            {
+              "id": "09-06-04",
+              "name": "EL COCO",
+              "superficie23": "14.9",
+              "pop23": "22807",
+              "den23": "1535.0"
+            },
+            {
+              "id": "09-06-05",
+              "name": "FEUILLET",
+              "superficie23": "19.5",
+              "pop23": "4094",
+              "den23": "210.2"
+            },
+            {
+              "id": "09-06-06",
+              "name": "GUADALUPE",
+              "superficie23": "25.6",
+              "pop23": "38724",
+              "den23": "1513.3"
+            },
+            {
+              "id": "09-06-07",
+              "name": "HERRERA",
+              "superficie23": "86.0",
+              "pop23": "23424",
+              "den23": "272.5"
+            },
+            {
+              "id": "09-06-08",
+              "name": "HURTADO",
+              "superficie23": "47.6",
+              "pop23": "1599",
+              "den23": "33.6"
+            },
+            {
+              "id": "09-06-09",
+              "name": "ITURRALDE",
+              "superficie23": "63.6",
+              "pop23": "1516",
+              "den23": "23.8"
+            },
+            {
+              "id": "09-06-10",
+              "name": "LA REPRESA",
+              "superficie23": "38.4",
+              "pop23": "936",
+              "den23": "24.4"
+            },
+            {
+              "id": "09-06-11",
+              "name": "LOS DÍAZ",
+              "superficie23": "29.4",
+              "pop23": "1750",
+              "den23": "59.6"
+            },
+            {
+              "id": "09-06-12",
+              "name": "MENDOZA",
+              "superficie23": "54.6",
+              "pop23": "1517",
+              "den23": "27.8"
+            },
+            {
+              "id": "09-06-13",
+              "name": "OBALDÍA",
+              "superficie23": "34.5",
+              "pop23": "767",
+              "den23": "22.2"
+            },
+            {
+              "id": "09-06-14",
+              "name": "PLAYA LEONA",
+              "superficie23": "52.5",
+              "pop23": "36116",
+              "den23": "687.9"
+            },
+            {
+              "id": "09-06-15",
+              "name": "PUERTO CAIMITO",
+              "superficie23": "31.4",
+              "pop23": "46923",
+              "den23": "1493.3"
+            },
+            {
+              "id": "09-06-16",
+              "name": "SANTA RITA",
+              "superficie23": "32.2",
+              "pop23": "2445",
+              "den23": "76.0"
+            }
+          ]
+        },
+        {
+          "id": "09-07",
+          "name": "SAN CARLOS",
+          "superficie23": "336.8",
+          "pop23": "22201",
+          "den23": "65.9",
+          "corregimientos": [
+            {
+              "id": "09-07-01",
+              "name": "SAN CARLOS",
+              "superficie23": "28.9",
+              "pop23": "3980",
+              "den23": "137.5"
+            },
+            {
+              "id": "09-07-02",
+              "name": "EL ESPINO",
+              "superficie23": "35.1",
+              "pop23": "2032",
+              "den23": "57.9"
+            },
+            {
+              "id": "09-07-03",
+              "name": "EL HIGO",
+              "superficie23": "43.8",
+              "pop23": "3373",
+              "den23": "77.1"
+            },
+            {
+              "id": "09-07-04",
+              "name": "GUAYABITO",
+              "superficie23": "35.7",
+              "pop23": "605",
+              "den23": "17.0"
+            },
+            {
+              "id": "09-07-05",
+              "name": "LA ERMITA",
+              "superficie23": "32.8",
+              "pop23": "1820",
+              "den23": "55.4"
+            },
+            {
+              "id": "09-07-06",
+              "name": "LA LAGUNA",
+              "superficie23": "53.6",
+              "pop23": "1359",
+              "den23": "25.3"
+            },
+            {
+              "id": "09-07-07",
+              "name": "LAS UVAS",
+              "superficie23": "17.9",
+              "pop23": "1942",
+              "den23": "108.6"
+            },
+            {
+              "id": "09-07-08",
+              "name": "LOS LLANITOS",
+              "superficie23": "61.8",
+              "pop23": "3791",
+              "den23": "61.4"
+            },
+            {
+              "id": "09-07-09",
+              "name": "SAN JOSÉ",
+              "superficie23": "27.2",
+              "pop23": "3299",
+              "den23": "121.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "VERAGUAS",
+      "superficie23": "10597.5",
+      "pop23": "259791",
+      "den23": "24.5",
+      "distritos": [
+        {
+          "id": "10-01",
+          "name": "ATALAYA",
+          "superficie23": "156.1",
+          "pop23": "17507",
+          "den23": "112.1",
+          "corregimientos": [
+            {
+              "id": "10-01-01",
+              "name": "ATALAYA",
+              "superficie23": "47.1",
+              "pop23": "7762",
+              "den23": "164.7"
+            },
+            {
+              "id": "10-01-02",
+              "name": "EL BARRITO",
+              "superficie23": "24.4",
+              "pop23": "1063",
+              "den23": "43.6"
+            },
+            {
+              "id": "10-01-03",
+              "name": "LA MONTAÑUELA",
+              "superficie23": "27.2",
+              "pop23": "881",
+              "den23": "32.3"
+            },
+            {
+              "id": "10-01-04",
+              "name": "LA CARRILLO",
+              "superficie23": "39.4",
+              "pop23": "686",
+              "den23": "17.4"
+            },
+            {
+              "id": "10-01-05",
+              "name": "SAN ANTONIO",
+              "superficie23": "17.9",
+              "pop23": "7115",
+              "den23": "397.0"
+            }
+          ]
+        },
+        {
+          "id": "10-02",
+          "name": "CALOBRE",
+          "superficie23": "805.1",
+          "pop23": "11666",
+          "den23": "14.5",
+          "corregimientos": [
+            {
+              "id": "10-02-01",
+              "name": "CALOBRE",
+              "superficie23": "78.6",
+              "pop23": "2877",
+              "den23": "36.6"
+            },
+            {
+              "id": "10-02-02",
+              "name": "BARNIZAL",
+              "superficie23": "27.4",
+              "pop23": "370",
+              "den23": "13.5"
+            },
+            {
+              "id": "10-02-03",
+              "name": "CHITRA",
+              "superficie23": "109.8",
+              "pop23": "1277",
+              "den23": "11.6"
+            },
+            {
+              "id": "10-02-04",
+              "name": "EL COCLA",
+              "superficie23": "71.7",
+              "pop23": "549",
+              "den23": "7.7"
+            },
+            {
+              "id": "10-02-05",
+              "name": "EL POTRERO",
+              "superficie23": "43.4",
+              "pop23": "591",
+              "den23": "13.6"
+            },
+            {
+              "id": "10-02-06",
+              "name": "LA LAGUNA",
+              "superficie23": "85.0",
+              "pop23": "708",
+              "den23": "8.3"
+            },
+            {
+              "id": "10-02-07",
+              "name": "LA RAYA DE CALOBRE",
+              "superficie23": "33.1",
+              "pop23": "498",
+              "den23": "15.0"
+            },
+            {
+              "id": "10-02-08",
+              "name": "LA TETILLA",
+              "superficie23": "54.3",
+              "pop23": "426",
+              "den23": "7.8"
+            },
+            {
+              "id": "10-02-09",
+              "name": "LA YEGUADA",
+              "superficie23": "128.7",
+              "pop23": "1414",
+              "den23": "11.0"
+            },
+            {
+              "id": "10-02-10",
+              "name": "LAS GUÍAS",
+              "superficie23": "92.9",
+              "pop23": "1694",
+              "den23": "18.2"
+            },
+            {
+              "id": "10-02-11",
+              "name": "MONJARÁS",
+              "superficie23": "43.0",
+              "pop23": "594",
+              "den23": "13.8"
+            },
+            {
+              "id": "10-02-12",
+              "name": "SAN JOSÉ",
+              "superficie23": "37.3",
+              "pop23": "668",
+              "den23": "17.9"
+            }
+          ]
+        },
+        {
+          "id": "10-03",
+          "name": "CAÑAZAS",
+          "superficie23": "781.9",
+          "pop23": "16933",
+          "den23": "21.7",
+          "corregimientos": [
+            {
+              "id": "10-03-01",
+              "name": "CAÑAZAS",
+              "superficie23": "89.4",
+              "pop23": "5367",
+              "den23": "60.0"
+            },
+            {
+              "id": "10-03-02",
+              "name": "CERRO DE PLATA",
+              "superficie23": "98.0",
+              "pop23": "1625",
+              "den23": "16.6"
+            },
+            {
+              "id": "10-03-03",
+              "name": "EL PICADOR",
+              "superficie23": "153.9",
+              "pop23": "2974",
+              "den23": "19.3"
+            },
+            {
+              "id": "10-03-04",
+              "name": "LOS VALLES",
+              "superficie23": "82.3",
+              "pop23": "1240",
+              "den23": "15.1"
+            },
+            {
+              "id": "10-03-05",
+              "name": "SAN JOSÉ",
+              "superficie23": "146.5",
+              "pop23": "1937",
+              "den23": "13.2"
+            },
+            {
+              "id": "10-03-06",
+              "name": "SAN MARCELO",
+              "superficie23": "77.9",
+              "pop23": "1380",
+              "den23": "17.7"
+            },
+            {
+              "id": "10-03-07",
+              "name": "EL AROMILLO",
+              "superficie23": "65.1",
+              "pop23": "1098",
+              "den23": "16.9"
+            },
+            {
+              "id": "10-03-08",
+              "name": "LAS CRUCES",
+              "superficie23": "68.9",
+              "pop23": "1312",
+              "den23": "19.0"
+            }
+          ]
+        },
+        {
+          "id": "10-04",
+          "name": "LA MESA",
+          "superficie23": "509.8",
+          "pop23": "12238",
+          "den23": "24.0",
+          "corregimientos": [
+            {
+              "id": "10-04-01",
+              "name": "LA MESA",
+              "superficie23": "165.3",
+              "pop23": "3458",
+              "den23": "20.9"
+            },
+            {
+              "id": "10-04-02",
+              "name": "BISVALLES",
+              "superficie23": "83.4",
+              "pop23": "2169",
+              "den23": "26.0"
+            },
+            {
+              "id": "10-04-03",
+              "name": "BORÓ",
+              "superficie23": "72.7",
+              "pop23": "1565",
+              "den23": "21.5"
+            },
+            {
+              "id": "10-04-04",
+              "name": "LLANO GRANDE",
+              "superficie23": "58.0",
+              "pop23": "782",
+              "den23": "13.5"
+            },
+            {
+              "id": "10-04-05",
+              "name": "SAN BARTOLO",
+              "superficie23": "38.6",
+              "pop23": "1099",
+              "den23": "28.5"
+            },
+            {
+              "id": "10-04-06",
+              "name": "LOS MILAGROS",
+              "superficie23": "34.8",
+              "pop23": "1500",
+              "den23": "43.1"
+            },
+            {
+              "id": "10-04-07",
+              "name": "EL HIGO",
+              "superficie23": "56.9",
+              "pop23": "1665",
+              "den23": "29.3"
+            }
+          ]
+        },
+        {
+          "id": "10-05",
+          "name": "LAS PALMAS",
+          "superficie23": "1015.2",
+          "pop23": "18071",
+          "den23": "17.8",
+          "corregimientos": [
+            {
+              "id": "10-05-01",
+              "name": "LAS PALMAS",
+              "superficie23": "73.9",
+              "pop23": "2388",
+              "den23": "32.3"
+            },
+            {
+              "id": "10-05-02",
+              "name": "CERRO DE CASA",
+              "superficie23": "91.4",
+              "pop23": "2198",
+              "den23": "24.1"
+            },
+            {
+              "id": "10-05-03",
+              "name": "COROZAL",
+              "superficie23": "40.2",
+              "pop23": "882",
+              "den23": "21.9"
+            },
+            {
+              "id": "10-05-04",
+              "name": "EL MARÍA",
+              "superficie23": "97.2",
+              "pop23": "1040",
+              "den23": "10.7"
+            },
+            {
+              "id": "10-05-05",
+              "name": "EL PRADO",
+              "superficie23": "41.5",
+              "pop23": "1256",
+              "den23": "30.3"
+            },
+            {
+              "id": "10-05-06",
+              "name": "EL RINCÓN",
+              "superficie23": "82.4",
+              "pop23": "2635",
+              "den23": "32.0"
+            },
+            {
+              "id": "10-05-07",
+              "name": "LOLÁ",
+              "superficie23": "39.6",
+              "pop23": "915",
+              "den23": "23.1"
+            },
+            {
+              "id": "10-05-08",
+              "name": "PIXVAE",
+              "superficie23": "78.8",
+              "pop23": "673",
+              "den23": "8.5"
+            },
+            {
+              "id": "10-05-09",
+              "name": "PUERTO VIDAL",
+              "superficie23": "132.3",
+              "pop23": "1869",
+              "den23": "14.1"
+            },
+            {
+              "id": "10-05-10",
+              "name": "SAN MARTÍN DE PORRES",
+              "superficie23": "26.7",
+              "pop23": "1266",
+              "den23": "47.5"
+            },
+            {
+              "id": "10-05-11",
+              "name": "VIGUÍ",
+              "superficie23": "59.8",
+              "pop23": "1109",
+              "den23": "18.6"
+            },
+            {
+              "id": "10-05-12",
+              "name": "ZAPOTILLO",
+              "superficie23": "194.3",
+              "pop23": "992",
+              "den23": "5.1"
+            },
+            {
+              "id": "10-05-13",
+              "name": "MANUEL E. AMADOR TERRERO",
+              "superficie23": "57.2",
+              "pop23": "848",
+              "den23": "14.8"
+            }
+          ]
+        },
+        {
+          "id": "10-06",
+          "name": "MONTIJO",
+          "superficie23": "774.4",
+          "pop23": "6784",
+          "den23": "8.8",
+          "corregimientos": [
+            {
+              "id": "10-06-01",
+              "name": "MONTIJO",
+              "superficie23": "36.1",
+              "pop23": "2501",
+              "den23": "69.2"
+            },
+            {
+              "id": "10-06-02",
+              "name": "GOBERNADORA",
+              "superficie23": "530.7",
+              "pop23": "226",
+              "den23": "0.4"
+            },
+            {
+              "id": "10-06-03",
+              "name": "LA GARCEANA",
+              "superficie23": "28.0",
+              "pop23": "192",
+              "den23": "6.9"
+            },
+            {
+              "id": "10-06-04",
+              "name": "LEONES",
+              "superficie23": "18.5",
+              "pop23": "153",
+              "den23": "8.3"
+            },
+            {
+              "id": "10-06-05",
+              "name": "PILÓN",
+              "superficie23": "26.8",
+              "pop23": "874",
+              "den23": "32.7"
+            },
+            {
+              "id": "10-06-06",
+              "name": "CÉBACO",
+              "superficie23": "78.3",
+              "pop23": "285",
+              "den23": "3.6"
+            },
+            {
+              "id": "10-06-07",
+              "name": "COSTA HERMOSA",
+              "superficie23": "21.0",
+              "pop23": "1721",
+              "den23": "81.9"
+            },
+            {
+              "id": "10-06-08",
+              "name": "UNIÓN DEL NORTE",
+              "superficie23": "35.0",
+              "pop23": "832",
+              "den23": "23.8"
+            }
+          ]
+        },
+        {
+          "id": "10-07",
+          "name": "RÍO DE JESÚS",
+          "superficie23": "316.5",
+          "pop23": "4822",
+          "den23": "15.2",
+          "corregimientos": [
+            {
+              "id": "10-07-01",
+              "name": "RÍO DE JESÚS",
+              "superficie23": "103.4",
+              "pop23": "2482",
+              "den23": "24.0"
+            },
+            {
+              "id": "10-07-02",
+              "name": "LAS HUACAS",
+              "superficie23": "79.8",
+              "pop23": "850",
+              "den23": "10.7"
+            },
+            {
+              "id": "10-07-03",
+              "name": "LOS CASTILLOS",
+              "superficie23": "17.5",
+              "pop23": "509",
+              "den23": "29.1"
+            },
+            {
+              "id": "10-07-04",
+              "name": "UTIRA",
+              "superficie23": "49.3",
+              "pop23": "273",
+              "den23": "5.5"
+            },
+            {
+              "id": "10-07-05",
+              "name": "CATORCE DE NOVIEMBRE",
+              "superficie23": "66.5",
+              "pop23": "708",
+              "den23": "10.6"
+            }
+          ]
+        },
+        {
+          "id": "10-08",
+          "name": "SAN FRANCISCO",
+          "superficie23": "434.3",
+          "pop23": "10107",
+          "den23": "23.3",
+          "corregimientos": [
+            {
+              "id": "10-08-01",
+              "name": "SAN FRANCISCO",
+              "superficie23": "72.3",
+              "pop23": "2567",
+              "den23": "35.5"
+            },
+            {
+              "id": "10-08-02",
+              "name": "CORRAL FALSO",
+              "superficie23": "38.3",
+              "pop23": "515",
+              "den23": "13.4"
+            },
+            {
+              "id": "10-08-03",
+              "name": "LOS HATILLOS",
+              "superficie23": "108.1",
+              "pop23": "1178",
+              "den23": "10.9"
+            },
+            {
+              "id": "10-08-04",
+              "name": "REMANCE",
+              "superficie23": "77.3",
+              "pop23": "1452",
+              "den23": "18.8"
+            },
+            {
+              "id": "10-08-05",
+              "name": "SAN JUAN",
+              "superficie23": "62.8",
+              "pop23": "1661",
+              "den23": "26.4"
+            },
+            {
+              "id": "10-08-06",
+              "name": "SAN JOSÉ",
+              "superficie23": "75.5",
+              "pop23": "2734",
+              "den23": "36.2"
+            }
+          ]
+        },
+        {
+          "id": "10-09",
+          "name": "SANTA FE",
+          "superficie23": "1921.1",
+          "pop23": "18023",
+          "den23": "9.4",
+          "corregimientos": [
+            {
+              "id": "10-09-01",
+              "name": "SANTA FE",
+              "superficie23": "143.3",
+              "pop23": "2866",
+              "den23": "20.0"
+            },
+            {
+              "id": "10-09-02",
+              "name": "CALOVÉBORA",
+              "superficie23": "1129.0",
+              "pop23": "6373",
+              "den23": "5.6"
+            },
+            {
+              "id": "10-09-03",
+              "name": "EL ALTO",
+              "superficie23": "84.1",
+              "pop23": "1362",
+              "den23": "16.2"
+            },
+            {
+              "id": "10-09-04",
+              "name": "EL CUAY",
+              "superficie23": "87.4",
+              "pop23": "1287",
+              "den23": "14.7"
+            },
+            {
+              "id": "10-09-05",
+              "name": "EL PANTANO",
+              "superficie23": "52.5",
+              "pop23": "658",
+              "den23": "12.5"
+            },
+            {
+              "id": "10-09-06",
+              "name": "GATÚ O GATUCITO",
+              "superficie23": "63.9",
+              "pop23": "1451",
+              "den23": "22.7"
+            },
+            {
+              "id": "10-09-07",
+              "name": "RÍO LUIS",
+              "superficie23": "257.5",
+              "pop23": "3001",
+              "den23": "11.7"
+            },
+            {
+              "id": "10-09-08",
+              "name": "RUBÉN CANTÚ",
+              "superficie23": "103.5",
+              "pop23": "1025",
+              "den23": "9.9"
+            }
+          ]
+        },
+        {
+          "id": "10-10",
+          "name": "SANTIAGO",
+          "superficie23": "969.8",
+          "pop23": "109605",
+          "den23": "113.0",
+          "corregimientos": [
+            {
+              "id": "10-10-01",
+              "name": "SANTIAGO",
+              "superficie23": "28.7",
+              "pop23": "23236",
+              "den23": "810.0"
+            },
+            {
+              "id": "10-10-02",
+              "name": "LA COLORADA",
+              "superficie23": "64.8",
+              "pop23": "2652",
+              "den23": "40.9"
+            },
+            {
+              "id": "10-10-03",
+              "name": "LA PEÑA",
+              "superficie23": "117.1",
+              "pop23": "5943",
+              "den23": "50.8"
+            },
+            {
+              "id": "10-10-04",
+              "name": "LA RAYA DE SANTA MARÍA",
+              "superficie23": "67.3",
+              "pop23": "2109",
+              "den23": "31.3"
+            },
+            {
+              "id": "10-10-05",
+              "name": "PONUGA",
+              "superficie23": "124.4",
+              "pop23": "1477",
+              "den23": "11.9"
+            },
+            {
+              "id": "10-10-06",
+              "name": "SAN PEDRO DEL ESPINO",
+              "superficie23": "23.4",
+              "pop23": "1974",
+              "den23": "84.4"
+            },
+            {
+              "id": "10-10-07",
+              "name": "CANTO DEL LLANO",
+              "superficie23": "65.8",
+              "pop23": "13678",
+              "den23": "207.8"
+            },
+            {
+              "id": "10-10-08",
+              "name": "LOS ALGARROBOS",
+              "superficie23": "63.3",
+              "pop23": "8218",
+              "den23": "129.8"
+            },
+            {
+              "id": "10-10-09",
+              "name": "CARLOS SANTANA ÁVILA",
+              "superficie23": "67.4",
+              "pop23": "5500",
+              "den23": "81.6"
+            },
+            {
+              "id": "10-10-10",
+              "name": "EDWIN FÁBREGA",
+              "superficie23": "35.1",
+              "pop23": "4054",
+              "den23": "115.6"
+            },
+            {
+              "id": "10-10-11",
+              "name": "SAN MARTÍN DE PORRES",
+              "superficie23": "5.3",
+              "pop23": "16156",
+              "den23": "3063.5"
+            },
+            {
+              "id": "10-10-12",
+              "name": "URRACÁ",
+              "superficie23": "73.6",
+              "pop23": "2101",
+              "den23": "28.6"
+            },
+            {
+              "id": "10-10-13",
+              "name": "RODRIGO LUQUE",
+              "superficie23": "16.9",
+              "pop23": "9114",
+              "den23": "539.1"
+            },
+            {
+              "id": "10-10-14",
+              "name": "NUEVO SANTIAGO",
+              "superficie23": "23.5",
+              "pop23": "10677",
+              "den23": "455.3"
+            },
+            {
+              "id": "10-10-15",
+              "name": "SANTIAGO ESTE",
+              "superficie23": "28.6",
+              "pop23": "1449",
+              "den23": "50.6"
+            },
+            {
+              "id": "10-10-16",
+              "name": "SANTIAGO SUR",
+              "superficie23": "164.7",
+              "pop23": "1267",
+              "den23": "7.7"
+            }
+          ]
+        },
+        {
+          "id": "10-11",
+          "name": "SONÁ",
+          "superficie23": "1521.7",
+          "pop23": "28244",
+          "den23": "18.6",
+          "corregimientos": [
+            {
+              "id": "10-11-01",
+              "name": "SONÁ",
+              "superficie23": "69.5",
+              "pop23": "12242",
+              "den23": "176.1"
+            },
+            {
+              "id": "10-11-02",
+              "name": "BAHÍA HONDA",
+              "superficie23": "173.1",
+              "pop23": "668",
+              "den23": "3.9"
+            },
+            {
+              "id": "10-11-03",
+              "name": "CALIDONIA",
+              "superficie23": "158.6",
+              "pop23": "1286",
+              "den23": "8.1"
+            },
+            {
+              "id": "10-11-04",
+              "name": "CATIVÉ",
+              "superficie23": "136.0",
+              "pop23": "725",
+              "den23": "5.3"
+            },
+            {
+              "id": "10-11-05",
+              "name": "EL MARAÑÓN",
+              "superficie23": "114.2",
+              "pop23": "2640",
+              "den23": "23.1"
+            },
+            {
+              "id": "10-11-06",
+              "name": "GUARUMAL",
+              "superficie23": "130.9",
+              "pop23": "1456",
+              "den23": "11.1"
+            },
+            {
+              "id": "10-11-07",
+              "name": "LA SOLEDAD",
+              "superficie23": "119.3",
+              "pop23": "1496",
+              "den23": "12.5"
+            },
+            {
+              "id": "10-11-08",
+              "name": "QUEBRADA DE ORO",
+              "superficie23": "61.2",
+              "pop23": "1035",
+              "den23": "16.9"
+            },
+            {
+              "id": "10-11-09",
+              "name": "RÍO GRANDE",
+              "superficie23": "152.4",
+              "pop23": "1416",
+              "den23": "9.3"
+            },
+            {
+              "id": "10-11-10",
+              "name": "RODEO VIEJO",
+              "superficie23": "122.5",
+              "pop23": "1749",
+              "den23": "14.3"
+            },
+            {
+              "id": "10-11-11",
+              "name": "HICACO",
+              "superficie23": "94.5",
+              "pop23": "2007",
+              "den23": "21.2"
+            },
+            {
+              "id": "10-11-12",
+              "name": "LA TRINCHERA",
+              "superficie23": "189.5",
+              "pop23": "1524",
+              "den23": "8.0"
+            }
+          ]
+        },
+        {
+          "id": "10-12",
+          "name": "MARIATO",
+          "superficie23": "1391.7",
+          "pop23": "5791",
+          "den23": "4.2",
+          "corregimientos": [
+            {
+              "id": "10-12-01",
+              "name": "LLANO DE CATIVAL O MARIATO",
+              "superficie23": "314.4",
+              "pop23": "2884",
+              "den23": "9.2"
+            },
+            {
+              "id": "10-12-02",
+              "name": "ARENAS",
+              "superficie23": "231.4",
+              "pop23": "640",
+              "den23": "2.8"
+            },
+            {
+              "id": "10-12-03",
+              "name": "EL CACAO",
+              "superficie23": "414.0",
+              "pop23": "430",
+              "den23": "1.0"
+            },
+            {
+              "id": "10-12-04",
+              "name": "QUEBRO",
+              "superficie23": "350.3",
+              "pop23": "1195",
+              "den23": "3.4"
+            },
+            {
+              "id": "10-12-05",
+              "name": "TEBARIO",
+              "superficie23": "81.6",
+              "pop23": "642",
+              "den23": "7.9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "COMARCA KUNA YALA",
+      "superficie23": "2307.6",
+      "pop23": "32016",
+      "den23": "13.9",
+      "distritos": [
+        {
+          "id": "11-01",
+          "name": "COMARCA KUNA YALA",
+          "superficie23": "2307.6",
+          "pop23": "32016",
+          "den23": "13.9",
+          "corregimientos": [
+            {
+              "id": "11-01-01",
+              "name": "NARGANÁ",
+              "superficie23": "962.6",
+              "pop23": "12954",
+              "den23": "13.5"
+            },
+            {
+              "id": "11-01-02",
+              "name": "AILIGANDÍ",
+              "superficie23": "576.8",
+              "pop23": "10911",
+              "den23": "18.9"
+            },
+            {
+              "id": "11-01-03",
+              "name": "PUERTO OBALDÍA",
+              "superficie23": "97.9",
+              "pop23": "611",
+              "den23": "6.2"
+            },
+            {
+              "id": "11-01-04",
+              "name": "TUBUALÁ",
+              "superficie23": "670.3",
+              "pop23": "7540",
+              "den23": "11.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "COMARCA EMBERÁ",
+      "superficie23": "4365.5",
+      "pop23": "12358",
+      "den23": "2.8",
+      "distritos": [
+        {
+          "id": "12-01",
+          "name": "CÉMACO",
+          "superficie23": "3058.5",
+          "pop23": "9547",
+          "den23": "3.1",
+          "corregimientos": [
+            {
+              "id": "12-01-01",
+              "name": "CIRILO GUAYNORA",
+              "superficie23": "431.6",
+              "pop23": "2520",
+              "den23": "5.8"
+            },
+            {
+              "id": "12-01-02",
+              "name": "LAJAS BLANCAS",
+              "superficie23": "1651.1",
+              "pop23": "5161",
+              "den23": "3.1"
+            },
+            {
+              "id": "12-01-03",
+              "name": "MANUEL ORTEGA",
+              "superficie23": "975.8",
+              "pop23": "1866",
+              "den23": "1.9"
+            }
+          ]
+        },
+        {
+          "id": "12-02",
+          "name": "SAMBÚ",
+          "superficie23": "1307.0",
+          "pop23": "2811",
+          "den23": "2.2",
+          "corregimientos": [
+            {
+              "id": "12-02-01",
+              "name": "RÍO SÁBALO",
+              "superficie23": "544.9",
+              "pop23": "2226",
+              "den23": "4.1"
+            },
+            {
+              "id": "12-02-02",
+              "name": "JINGURUDÓ",
+              "superficie23": "762.1",
+              "pop23": "585",
+              "den23": "0.8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "COMARCA NGÄBE BUGLÉ",
+      "superficie23": "6829.5",
+      "pop23": "212084",
+      "den23": "31.1",
+      "distritos": [
+        {
+          "id": "13-01",
+          "name": "BESIKO",
+          "superficie23": "753.2",
+          "pop23": "31422",
+          "den23": "41.7",
+          "corregimientos": [
+            {
+              "id": "13-01-01",
+              "name": "SOLOY",
+              "superficie23": "113.5",
+              "pop23": "6569",
+              "den23": "57.9"
+            },
+            {
+              "id": "13-01-02",
+              "name": "BOCA DE BALSA",
+              "superficie23": "119.2",
+              "pop23": "3096",
+              "den23": "26.0"
+            },
+            {
+              "id": "13-01-03",
+              "name": "CAMARÓN ARRIBA",
+              "superficie23": "50.5",
+              "pop23": "4341",
+              "den23": "85.9"
+            },
+            {
+              "id": "13-01-04",
+              "name": "CERRO BANCO",
+              "superficie23": "109.8",
+              "pop23": "4869",
+              "den23": "44.4"
+            },
+            {
+              "id": "13-01-05",
+              "name": "CERRO DE PATENA",
+              "superficie23": "52.0",
+              "pop23": "2014",
+              "den23": "38.8"
+            },
+            {
+              "id": "13-01-06",
+              "name": "EMPLANADA DE CHORCHA",
+              "superficie23": "145.2",
+              "pop23": "3223",
+              "den23": "22.2"
+            },
+            {
+              "id": "13-01-07",
+              "name": "NÄMNONI",
+              "superficie23": "28.2",
+              "pop23": "3469",
+              "den23": "123.0"
+            },
+            {
+              "id": "13-01-08",
+              "name": "NIBA",
+              "superficie23": "134.8",
+              "pop23": "3841",
+              "den23": "28.5"
+            }
+          ]
+        },
+        {
+          "id": "13-02",
+          "name": "MIRONÓ",
+          "superficie23": "340.2",
+          "pop23": "21800",
+          "den23": "64.1",
+          "corregimientos": [
+            {
+              "id": "13-02-01",
+              "name": "HATO PILÓN",
+              "superficie23": "45.2",
+              "pop23": "3794",
+              "den23": "84.0"
+            },
+            {
+              "id": "13-02-02",
+              "name": "CASCABEL",
+              "superficie23": "123.4",
+              "pop23": "1636",
+              "den23": "13.3"
+            },
+            {
+              "id": "13-02-03",
+              "name": "HATO COROTÚ",
+              "superficie23": "21.0",
+              "pop23": "2543",
+              "den23": "121.0"
+            },
+            {
+              "id": "13-02-04",
+              "name": "HATO CULANTRO",
+              "superficie23": "67.8",
+              "pop23": "3406",
+              "den23": "50.3"
+            },
+            {
+              "id": "13-02-05",
+              "name": "HATO JOBO",
+              "superficie23": "30.9",
+              "pop23": "2326",
+              "den23": "75.3"
+            },
+            {
+              "id": "13-02-06",
+              "name": "HATO JULÍ",
+              "superficie23": "9.9",
+              "pop23": "2237",
+              "den23": "225.5"
+            },
+            {
+              "id": "13-02-07",
+              "name": "QUEBRADA DE LORO",
+              "superficie23": "14.5",
+              "pop23": "2376",
+              "den23": "163.5"
+            },
+            {
+              "id": "13-02-08",
+              "name": "SALTO DUPÍ",
+              "superficie23": "27.4",
+              "pop23": "3482",
+              "den23": "126.9"
+            }
+          ]
+        },
+        {
+          "id": "13-03",
+          "name": "MÜNA",
+          "superficie23": "799.5",
+          "pop23": "47200",
+          "den23": "59.0",
+          "corregimientos": [
+            {
+              "id": "13-03-01",
+              "name": "CHICHICA",
+              "superficie23": "50.7",
+              "pop23": "3470",
+              "den23": "68.5"
+            },
+            {
+              "id": "13-03-02",
+              "name": "ALTO CABALLERO",
+              "superficie23": "19.4",
+              "pop23": "3247",
+              "den23": "167.5"
+            },
+            {
+              "id": "13-03-03",
+              "name": "BAKAMA",
+              "superficie23": "11.7",
+              "pop23": "1458",
+              "den23": "124.5"
+            },
+            {
+              "id": "13-03-04",
+              "name": "CERRO CAÑA",
+              "superficie23": "31.2",
+              "pop23": "3109",
+              "den23": "99.5"
+            },
+            {
+              "id": "13-03-05",
+              "name": "CERRO PUERCO",
+              "superficie23": "43.3",
+              "pop23": "5310",
+              "den23": "122.5"
+            },
+            {
+              "id": "13-03-06",
+              "name": "KRÜA",
+              "superficie23": "168.9",
+              "pop23": "2901",
+              "den23": "17.2"
+            },
+            {
+              "id": "13-03-07",
+              "name": "MARACA",
+              "superficie23": "37.0",
+              "pop23": "3795",
+              "den23": "102.5"
+            },
+            {
+              "id": "13-03-08",
+              "name": "NIBRA",
+              "superficie23": "35.1",
+              "pop23": "2530",
+              "den23": "72.0"
+            },
+            {
+              "id": "13-03-09",
+              "name": "PEÑA BLANCA",
+              "superficie23": "103.1",
+              "pop23": "3562",
+              "den23": "34.5"
+            },
+            {
+              "id": "13-03-10",
+              "name": "ROKA",
+              "superficie23": "83.3",
+              "pop23": "3204",
+              "den23": "38.4"
+            },
+            {
+              "id": "13-03-11",
+              "name": "SITIO PRADO",
+              "superficie23": "52.1",
+              "pop23": "2767",
+              "den23": "53.2"
+            },
+            {
+              "id": "13-03-12",
+              "name": "ÜMANI",
+              "superficie23": "23.8",
+              "pop23": "2497",
+              "den23": "104.9"
+            },
+            {
+              "id": "13-03-13",
+              "name": "DIKERI",
+              "superficie23": "31.2",
+              "pop23": "2521",
+              "den23": "80.7"
+            },
+            {
+              "id": "13-03-14",
+              "name": "DIKO",
+              "superficie23": "42.0",
+              "pop23": "2596",
+              "den23": "61.8"
+            },
+            {
+              "id": "13-03-15",
+              "name": "KIKARI",
+              "superficie23": "13.5",
+              "pop23": "1995",
+              "den23": "148.3"
+            },
+            {
+              "id": "13-03-16",
+              "name": "MREENI",
+              "superficie23": "53.1",
+              "pop23": "2238",
+              "den23": "42.2"
+            }
+          ]
+        },
+        {
+          "id": "13-04",
+          "name": "NOLE DUIMA",
+          "superficie23": "185.0",
+          "pop23": "20709",
+          "den23": "111.9",
+          "corregimientos": [
+            {
+              "id": "13-04-01",
+              "name": "CERRO IGLESIAS",
+              "superficie23": "34.9",
+              "pop23": "5773",
+              "den23": "165.6"
+            },
+            {
+              "id": "13-04-02",
+              "name": "HATO CHAMÍ",
+              "superficie23": "50.1",
+              "pop23": "5218",
+              "den23": "104.1"
+            },
+            {
+              "id": "13-04-03",
+              "name": "JÄDABERI",
+              "superficie23": "66.5",
+              "pop23": "2313",
+              "den23": "34.8"
+            },
+            {
+              "id": "13-04-04",
+              "name": "LAJERO",
+              "superficie23": "11.7",
+              "pop23": "3759",
+              "den23": "321.9"
+            },
+            {
+              "id": "13-04-05",
+              "name": "SUSAMA",
+              "superficie23": "21.9",
+              "pop23": "3646",
+              "den23": "166.6"
+            }
+          ]
+        },
+        {
+          "id": "13-05",
+          "name": "ÑÜRÜM",
+          "superficie23": "581.9",
+          "pop23": "17637",
+          "den23": "30.3",
+          "corregimientos": [
+            {
+              "id": "13-05-01",
+              "name": "BUENOS AIRES",
+              "superficie23": "26.9",
+              "pop23": "1177",
+              "den23": "43.7"
+            },
+            {
+              "id": "13-05-02",
+              "name": "AGUA DE SALUD",
+              "superficie23": "69.9",
+              "pop23": "2404",
+              "den23": "34.4"
+            },
+            {
+              "id": "13-05-03",
+              "name": "ALTO DE JESÚS",
+              "superficie23": "27.5",
+              "pop23": "920",
+              "den23": "33.5"
+            },
+            {
+              "id": "13-05-04",
+              "name": "CERRO PELADO",
+              "superficie23": "31.1",
+              "pop23": "3278",
+              "den23": "105.3"
+            },
+            {
+              "id": "13-05-05",
+              "name": "EL BALE",
+              "superficie23": "48.1",
+              "pop23": "1009",
+              "den23": "21.0"
+            },
+            {
+              "id": "13-05-06",
+              "name": "EL PAREDÓN",
+              "superficie23": "117.7",
+              "pop23": "1208",
+              "den23": "10.3"
+            },
+            {
+              "id": "13-05-07",
+              "name": "EL PIRO",
+              "superficie23": "4.8",
+              "pop23": "802",
+              "den23": "167.9"
+            },
+            {
+              "id": "13-05-08",
+              "name": "GUAYABITO",
+              "superficie23": "59.3",
+              "pop23": "2176",
+              "den23": "36.7"
+            },
+            {
+              "id": "13-05-09",
+              "name": "GÜIBALE",
+              "superficie23": "98.0",
+              "pop23": "1484",
+              "den23": "15.1"
+            },
+            {
+              "id": "13-05-10",
+              "name": "EL PEÑON",
+              "superficie23": "63.2",
+              "pop23": "1901",
+              "den23": "30.1"
+            },
+            {
+              "id": "13-05-11",
+              "name": "EL PIRO NO.2",
+              "superficie23": "35.3",
+              "pop23": "1278",
+              "den23": "36.2"
+            }
+          ]
+        },
+        {
+          "id": "13-06",
+          "name": "KANKINTÚ",
+          "superficie23": "1044.5",
+          "pop23": "19751",
+          "den23": "18.9",
+          "corregimientos": [
+            {
+              "id": "13-06-01",
+              "name": "BISIRA",
+              "superficie23": "208.6",
+              "pop23": "3409",
+              "den23": "16.3"
+            },
+            {
+              "id": "13-06-02",
+              "name": "GUORONI",
+              "superficie23": "391.7",
+              "pop23": "3609",
+              "den23": "9.2"
+            },
+            {
+              "id": "13-06-03",
+              "name": "KANKINTÚ",
+              "superficie23": "102.0",
+              "pop23": "4879",
+              "den23": "47.8"
+            },
+            {
+              "id": "13-06-04",
+              "name": "MÜNÜNI",
+              "superficie23": "85.8",
+              "pop23": "1638",
+              "den23": "19.1"
+            },
+            {
+              "id": "13-06-05",
+              "name": "PIEDRA ROJA",
+              "superficie23": "71.7",
+              "pop23": "2962",
+              "den23": "41.3"
+            },
+            {
+              "id": "13-06-06",
+              "name": "CALANTE",
+              "superficie23": "88.6",
+              "pop23": "958",
+              "den23": "10.8"
+            },
+            {
+              "id": "13-06-07",
+              "name": "TOLOTE",
+              "superficie23": "96.2",
+              "pop23": "2296",
+              "den23": "23.9"
+            }
+          ]
+        },
+        {
+          "id": "13-07",
+          "name": "KUSAPÍN",
+          "superficie23": "843.4",
+          "pop23": "17047",
+          "den23": "20.2",
+          "corregimientos": [
+            {
+              "id": "13-07-01",
+              "name": "KUSAPÍN",
+              "superficie23": "22.5",
+              "pop23": "3638",
+              "den23": "161.4"
+            },
+            {
+              "id": "13-07-02",
+              "name": "BAHÍA AZUL",
+              "superficie23": "81.6",
+              "pop23": "4226",
+              "den23": "51.8"
+            },
+            {
+              "id": "13-07-03",
+              "name": "RÍO CHIRIQUÍ",
+              "superficie23": "519.0",
+              "pop23": "3836",
+              "den23": "7.4"
+            },
+            {
+              "id": "13-07-04",
+              "name": "TOBOBE",
+              "superficie23": "90.6",
+              "pop23": "3166",
+              "den23": "34.9"
+            },
+            {
+              "id": "13-07-05",
+              "name": "CAÑAVERAL",
+              "superficie23": "129.6",
+              "pop23": "2181",
+              "den23": "16.8"
+            }
+          ]
+        },
+        {
+          "id": "13-08",
+          "name": "JIRONDAI",
+          "superficie23": "1379.0",
+          "pop23": "25804",
+          "den23": "18.7",
+          "corregimientos": [
+            {
+              "id": "13-08-01",
+              "name": "SAMBOA",
+              "superficie23": "203.9",
+              "pop23": "3854",
+              "den23": "18.9"
+            },
+            {
+              "id": "13-08-02",
+              "name": "BÜRÍ",
+              "superficie23": "338.3",
+              "pop23": "5719",
+              "den23": "16.9"
+            },
+            {
+              "id": "13-08-03",
+              "name": "GUARIVIARA",
+              "superficie23": "395.4",
+              "pop23": "4036",
+              "den23": "10.2"
+            },
+            {
+              "id": "13-08-04",
+              "name": "MAN CREEK",
+              "superficie23": "184.1",
+              "pop23": "6594",
+              "den23": "35.8"
+            },
+            {
+              "id": "13-08-05",
+              "name": "TUWAI",
+              "superficie23": "257.4",
+              "pop23": "5601",
+              "den23": "21.8"
+            }
+          ]
+        },
+        {
+          "id": "13-09",
+          "name": "SANTA CATALINA O CALOVÉBORA",
+          "superficie23": "902.8",
+          "pop23": "10714",
+          "den23": "11.9",
+          "corregimientos": [
+            {
+              "id": "13-09-01",
+              "name": "SANTA CATALINA O CALOVÉBORA",
+              "superficie23": "202.0",
+              "pop23": "3083",
+              "den23": "15.3"
+            },
+            {
+              "id": "13-09-02",
+              "name": "ALTO BILINGÜE",
+              "superficie23": "65.2",
+              "pop23": "1352",
+              "den23": "20.7"
+            },
+            {
+              "id": "13-09-03",
+              "name": "LOMA YUCA",
+              "superficie23": "299.7",
+              "pop23": "820",
+              "den23": "2.7"
+            },
+            {
+              "id": "13-09-04",
+              "name": "SAN PEDRITO",
+              "superficie23": "144.3",
+              "pop23": "3425",
+              "den23": "23.7"
+            },
+            {
+              "id": "13-09-05",
+              "name": "VALLE BONITO",
+              "superficie23": "191.5",
+              "pop23": "2034",
+              "den23": "10.6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
